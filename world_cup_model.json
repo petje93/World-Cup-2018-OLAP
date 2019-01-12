@@ -1,0 +1,230 @@
+{
+    "name":"world_cup_model",
+
+    "label":"World Cup Russia 2018",
+
+    "dimensions": [
+        {
+         "name":"team",
+         "levels": [
+                {
+                    "name":"league",
+                    "label":"League"                },
+                {
+                    "name":"club",
+                    "label":"Club"                }
+            ]
+        },
+        {
+	    "name":"nat_team",
+	    "label":"National Team"        },
+        {
+          "name":"position",
+          "levels": [
+                {
+                    "name":"pos",
+                    "label":"Position"                },
+                {
+                    "name":"role",
+                    "label":"Role"                }
+          ],
+          "hierarchies": [
+     {
+         "name": "default",
+         "levels": ["pos", "role"]
+     },{
+         "name": "only_role",
+         "levels": ["role"]
+     } 
+]
+
+        },
+        {
+          "name":"age",
+          "levels": [
+                {
+                    "name":"age_gr",
+                    "label":"Age Group"
+                },
+                {
+                    "name":"age_ex",
+                    "label":"Exact Age"
+                }
+          ],
+          "hierarchies": [
+     {
+         "name": "default",
+         "levels": ["age_gr", "age_ex"]
+     },{
+         "name": "only_age",
+         "levels": ["age_ex"]
+     } 
+]
+
+        }
+
+
+    ],
+
+    "cubes": [
+        {
+            "name": "players",
+            "dimensions": ["team", "nat_team", "position","age"],
+            
+    		 "measures": [
+                     {
+			    	  "name":"matches",
+                        "label":"Matches Played"
+                     },
+                     {
+			    	  "name":"goals", "label":"Goals Scored"
+                     },
+                     {
+			    	  "name":"assists", 
+                        "label":"Assists Given"
+                     },
+                     {
+			    	  "name":"ycards", 
+                        "label":"Yellow Cards Taken"
+                     },
+                     {
+			    	  "name":"rcards", 
+                        "label":"Red Cards Taken"
+                     },
+                     {
+			    	  "name":"minutes", 
+                        "label":"Minutes Played"
+                     }
+             ],
+
+            "aggregates": [
+                    {
+                        "name": "Total Goals",
+                        "function": "sum",
+                        "measure": "goals"
+                    },
+                    {
+                        "name": "Total Assists",
+                        "function": "sum",
+                        "measure": "assists"
+                    },
+                    {
+                        "name": "Total Caps",
+                        "function": "sum",
+                        "measure": "matches"
+                    },
+                    {
+                        "name": "Total Minutes",
+                        "function": "sum",
+                        "measure": "minutes"
+                    },
+                    {
+                        "name": "Total Yellow Cards",
+                        "function": "sum",
+                        "measure": "ycards"
+                    },
+                    {
+                        "name": "Total Red Cards",
+                        "function": "sum",
+                        "measure": "rcards"
+                    },
+                    {
+                        "name": "Scored at least one",
+                        "expression": "sum(if((goals>0),1,0))"
+                    },
+                    {
+                        "name": "Played at least one",
+                        "expression":                                                                                                                                                                                                            "sum(if((matches>0),1,0))"
+                    },
+                    {
+                        "name": "Scored and gave assist",
+                        "expression": "sum(if(((goals>0)&(assists>0)),1,0))"
+                    },
+                    {
+                        "name": "Max Goals",
+                        "function": "max",
+                        "measure": "goals"
+                    },
+                    {
+                        "name": "Max Assists",
+                        "function": "max",
+                        "measure": "assists"
+                    },
+                    {
+                        "name": "Max Caps",
+                        "function": "max",
+                        "measure": "matches"
+                    },
+                    {
+                        "name": "Max Minutes",
+                        "function": "max",
+                        "measure": "minutes"
+                    },
+                    {
+                        "name": "Max Yellow Cards",
+                        "function": "max",
+                        "measure": "ycards"
+                    },
+                    {
+                        "name": "Max Red Cards",
+                        "function": "max",
+                        "measure": "rcards"
+                    },
+                    {
+                        "name": "Average Goals",
+                        "expression": "round(avg(goals),3)"
+                    },
+                    {
+                        "name": "Average Assists",
+                        "expression": "round(avg(assists),3)"
+                    },
+                    {
+                        "name": "Average Caps",
+                        "expression": "round(avg(matches),3)"
+                    },
+                    {
+                        "name": "Average Minutes",
+                        "expression": "round(avg(minutes),3)"
+                    },
+                    {
+                        "name": "Average Yellow Cards",
+                        "expression": "round(avg(ycards),3)"
+                    },
+                    {
+                        "name": "Average Red Cards",
+                        "expression": "round(avg(rcards),3)"
+                    },
+                    {
+                        "name": "players",
+                        "function": "count"
+                    }
+             	],
+
+            "details": [
+                    {
+                        "name": "n-caps",
+                        "label": "Total National Caps"
+                    },
+                    {
+                        "name": "n-goals",
+                        "label": "Total National Goals"
+                    },
+                    {
+                        "name": "name",
+                        "label": "Name"
+                    }
+
+             	],
+
+             "mappings": {
+					"team.league": "league",
+					"team.club": "club",
+					"position.pos": "pos",
+					"position.role": "role",
+					"age.age_gr": "age_gr",
+					"age.age_ex": "age_ex"
+
+                         }                    
+        }
+    ]
+}

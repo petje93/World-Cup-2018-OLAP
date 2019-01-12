@@ -1,0 +1,737 @@
+NAME,NAT_TEAM,CLUB,LEAGUE,POS,ROLE,AGE_GR,AGE_EX,MATCHES,GOALS,ASSISTS,Y-CARDS,R-CARDS,MINUTES,N-CAPS,N-GOALS
+Essam El-Hadary,Egypt,Al-Taawoun,Saudi Arabia,GK,Goalkeeper,36+,45,1,0,0,0,0,90,158,0
+Ali Gabr,Egypt,West Bromwich Albion,England,DF,Centre-Back,26-30,29,3,0,0,1,0,270,21,1
+Ahmed Elmohamady,Egypt,Aston Villa,England,DF,Right-Back,26-30,30,0,0,0,0,0,0,78,2
+Omar Gaber,Egypt,Los Angeles FC,United States,DF,Right-Back,26-30,26,0,0,0,0,0,0,24,0
+Sam Morsy,Egypt,Wigan Athletic,England,MF,Central Midfield,26-30,26,1,0,0,1,0,40,5,0
+Ahmed Hegazi,Egypt,West Bromwich Albion,England,DF,Centre-Back,26-30,27,3,0,0,1,0,270,45,1
+Ahmed Fathy,Egypt,El Ahly Cairo,Egypt,DF,Right-Back,31-35,33,3,0,0,1,0,270,126,3
+Tarek Hamed,Egypt,Zamalek SC,Egypt,MF,Defensive Midfield,26-30,29,3,0,0,0,0,230,21,0
+Marwan Mohsen,Egypt,El Ahly Cairo,Egypt,FW,Centre-Forward,26-30,29,3,0,0,0,0,209,24,4
+Mohamed Salah,Egypt,Liverpool FC,England,FW,Right Winger,26-30,26,2,2,0,0,0,180,57,33
+Kahraba,Egypt,Al-Ittihad,Saudi Arabia,FW,Left Winger,21-25,24,3,0,0,0,0,44,19,3
+Ayman Ashraf,Egypt,El Ahly Cairo,Egypt,DF,Centre-Back,26-30,27,0,0,0,0,0,0,4,0
+Mohamed Abdel-Shafy,Egypt,Al-Fateh,Saudi Arabia,DF,Left-Back,31-35,33,3,0,0,0,0,270,51,1
+Ramadan Sobhi,Egypt,Stoke City,England,FW,Left Winger,21-25,21,3,0,0,0,0,56,23,1
+Mahmoud Hamdy,Egypt,Zamalek SC,Egypt,DF,Centre-Back,21-25,23,0,0,0,0,0,0,0,0
+Sherif Ekramy,Egypt,El Ahly Cairo,Egypt,GK,Goalkeeper,31-35,34,0,0,0,0,0,0,22,0
+Mohamed Elneny,Egypt,Arsenal FC,England,MF,Defensive Midfield,21-25,25,3,0,0,0,0,244,61,5
+Shikabala,Egypt,Al-Raed,Saudi Arabia,FW,Right Winger,31-35,32,0,0,0,0,0,0,29,2
+Abdallah Said,Egypt,KuPS,Finland,MF,Attacking Midfield,31-35,32,3,0,1,0,0,225,36,6
+Saad Samir,Egypt,El Ahly Cairo,Egypt,DF,Centre-Back,26-30,29,0,0,0,0,0,0,11,0
+Trezeguet,Egypt,Kasimpasa,Turkey,FW,Left Winger,21-25,23,3,0,0,1,0,239,24,2
+Amr Warda,Egypt,Atromitos Athens,Greece,FW,Left Winger,21-25,24,3,0,0,0,0,153,16,0
+Mohamed El-Shenawy,Egypt,El Ahly Cairo,Egypt,GK,Goalkeeper,26-30,29,2,0,0,0,0,180,3,0
+Igor Akinfeev,Russia,CSKA Moscow,Russia,GK,Goalkeeper,31-35,32,5,0,0,0,0,510,106,0
+Mario Fernandes,Russia,CSKA Moscow,Russia,DF,Right-Back,26-30,27,5,1,1,0,0,472,5,0
+Ilya Kutepov,Russia,Spartak Moscow,Russia,DF,Centre-Back,21-25,24,5,0,1,1,0,510,7,0
+Sergei Ignashevich,Russia,CSKA Moscow,Russia,DF,Centre-Back,36+,38,5,0,0,0,0,510,122,8
+Andrei Semyonov,Russia,Akhmat Grozny,Russia,DF,Centre-Back,26-30,29,0,0,0,0,0,0,6,0
+Denis Cheryshev,Russia,Villarreal CF,Spain,FW,Left Winger,26-30,27,5,4,0,0,0,304,11,0
+Daler Kuzyayev,Russia,Zenit St. Petersburg,Russia,MF,Central Midfield,21-25,25,5,0,0,0,0,303,6,0
+Yury Gazinsky,Russia,FK Krasnodar,Russia,MF,Central Midfield,26-30,28,4,1,0,2,0,266,6,0
+Alan Dzagoev,Russia,CSKA Moscow,Russia,MF,Central Midfield,26-30,28,2,0,1,0,0,42,57,9
+Fyodor Smolov,Russia,FK Krasnodar,Russia,FW,Centre-Forward,26-30,28,5,0,0,1,0,219,32,12
+Roman Zobnin,Russia,Spartak Moscow,Russia,MF,Central Midfield,21-25,24,5,0,2,1,0,510,12,0
+Andrey Lunyov,Russia,Zenit St. Petersburg,Russia,GK,Goalkeeper,26-30,26,0,0,0,0,0,0,3,0
+Fyodor Kudryashov,Russia,Rubin Kazan,Russia,DF,Left-Back,31-35,31,4,0,0,0,0,334,19,0
+Vladimir Granat,Russia,Rubin Kazan,Russia,DF,Centre-Back,31-35,31,1,0,0,0,0,74,12,1
+Aleksei Miranchuk,Russia,Lokomotiv Moscow,Russia,MF,Attacking Midfield,21-25,22,1,0,0,0,0,60,18,4
+Anton Miranchuk,Russia,Lokomotiv Moscow,Russia,MF,Central Midfield,21-25,22,0,0,0,0,0,0,6,0
+Aleksandr Golovin,Russia,CSKA Moscow,Russia,MF,Central Midfield,21-25,22,4,1,2,1,0,402,19,2
+Yuri Zhirkov,Russia,Zenit St. Petersburg,Russia,MF,Left Midfield,31-35,34,3,0,0,0,0,221,84,2
+Aleksandr Samedov,Russia,Spartak Moscow,Russia,MF,Right Midfield,31-35,33,5,0,0,0,0,359,48,7
+Vladimir Gabulov,Russia,Club Brugge KV,Belgium,GK,Goalkeeper,31-35,34,0,0,0,0,0,0,10,0
+Aleksandr Yerokhin,Russia,Zenit St. Petersburg,Russia,MF,Attacking Midfield,26-30,28,2,0,0,0,0,89,17,0
+Artem Dzyuba,Russia,Arsenal Tula,Russia,FW,Centre-Forward,26-30,29,5,3,2,0,0,333,23,11
+Igor Smolnikov,Russia,Zenit St. Petersburg,Russia,DF,Right-Back,26-30,29,1,0,0,0,1,36,27,0
+Abdullah Al-Mayouf,Saudi Arabia,Al-Hilal Riyadh,Saudi Arabia,GK,Goalkeeper,31-35,31,1,0,0,0,0,90,11,0
+Mansoor Al-Harbi,Saudi Arabia,Al-Ahli Jeddah,Saudi Arabia,DF,Left-Back,26-30,30,0,0,0,0,0,0,40,1
+Osama Hawsawi,Saudi Arabia,Al-Hilal Riyadh,Saudi Arabia,DF,Centre-Back,31-35,34,3,0,0,0,0,270,135,7
+Ali Al-Bulaihi,Saudi Arabia,Al-Hilal Riyadh,Saudi Arabia,DF,Centre-Back,26-30,28,1,0,0,0,0,90,4,0
+Omar Hawsawi,Saudi Arabia,Al-Nasr Riyadh,Saudi Arabia,DF,Centre-Back,31-35,32,1,0,0,0,0,90,42,3
+Mohammed Al-Breik,Saudi Arabia,Al-Hilal Riyadh,Saudi Arabia,DF,Right-Back,21-25,25,3,0,0,0,0,270,11,1
+Salman Al-Faraj,Saudi Arabia,Al-Hilal Riyadh,Saudi Arabia,MF,Central Midfield,26-30,28,3,1,0,0,0,270,43,3
+Yahya Al-Shehri,Saudi Arabia,CD Leganes,Spain,FW,Right Winger,26-30,28,2,0,0,0,0,84,57,8
+Hattan Bahebri,Saudi Arabia,Al-Shabab Riyadh,Saudi Arabia,MF,Attacking Midfield,21-25,25,3,0,0,0,0,157,5,0
+Mohammad Al-Sahlawi,Saudi Arabia,Al-Nasr Riyadh,Saudi Arabia,FW,Centre-Forward,31-35,31,2,0,0,0,0,96,40,28
+Abdulmalek Al-Khaibri,Saudi Arabia,Al-Hilal Riyadh,Saudi Arabia,MF,Defensive Midfield,31-35,32,0,0,0,0,0,0,36,0
+Mohamed Kanno,Saudi Arabia,Al-Hilal Riyadh,Saudi Arabia,MF,Central Midfield,21-25,23,1,0,0,0,0,15,6,1
+Yasser Al-Shahrani,Saudi Arabia,Al-Hilal Riyadh,Saudi Arabia,DF,Left-Back,26-30,26,3,0,0,0,0,270,37,0
+Abdullah Otayf,Saudi Arabia,Al-Hilal Riyadh,Saudi Arabia,MF,Defensive Midfield,21-25,25,3,0,1,0,0,244,16,1
+Abdullah Al-Khaibari,Saudi Arabia,Al-Shabab Riyadh,Saudi Arabia,MF,Defensive Midfield,21-25,21,0,0,0,0,0,0,5,0
+Housain Al-Mogahwi,Saudi Arabia,Al-Ahli Jeddah,Saudi Arabia,MF,Central Midfield,26-30,30,2,0,0,0,0,136,18,1
+Taisir Al-Jassim,Saudi Arabia,Al-Ahli Jeddah,Saudi Arabia,MF,Central Midfield,31-35,33,2,0,0,1,0,134,132,19
+Salem Al-Dawsari,Saudi Arabia,Villarreal CF,Spain,FW,Right Winger,26-30,26,3,1,0,0,0,270,33,4
+Fahad Al-Muwallad,Saudi Arabia,Levante UD,Spain,FW,Right Winger,21-25,23,3,0,1,0,0,183,45,10
+Muhannad Assiri,Saudi Arabia,Al-Ahli Jeddah,Saudi Arabia,FW,Centre-Forward,31-35,31,2,0,0,0,0,31,18,4
+Yasser Al-Mosailem,Saudi Arabia,Al-Ahli Jeddah,Saudi Arabia,GK,Goalkeeper,31-35,34,1,0,0,0,0,90,32,0
+Mohammed Al-Owais,Saudi Arabia,Al-Ahli Jeddah,Saudi Arabia,GK,Goalkeeper,26-30,26,1,0,0,0,0,90,6,0
+Motaz Hawsawi,Saudi Arabia,Al-Ahli Jeddah,Saudi Arabia,DF,Centre-Back,26-30,26,1,0,0,0,0,90,17,0
+Fernando Muslera,Uruguay,Galatasaray SK,Turkey,GK,Goalkeeper,31-35,32,5,0,0,0,0,450,97,0
+Jose Gimenez,Uruguay,Atletico Madrid,Spain,DF,Centre-Back,21-25,23,4,1,0,0,0,360,42,5
+Diego Godin,Uruguay,Atletico Madrid,Spain,DF,Centre-Back,31-35,32,5,0,0,0,0,450,116,8
+Guillermo Varela,Uruguay,CA Penarol,Uruguay,DF,Right-Back,21-25,25,2,0,0,0,0,180,3,0
+Carlos Sanchez,Uruguay,CF Monterrey,Mexico,MF,Right Midfield,31-35,33,3,0,2,0,0,123,36,1
+Rodrigo Bentancur,Uruguay,Juventus FC,Italy,MF,Central Midfield,21-25,21,5,0,1,2,0,365,7,0
+Cristian Rodriguez,Uruguay,CA Penarol,Uruguay,MF,Left Midfield,31-35,32,5,0,0,1,0,165,105,11
+Nahitan Nandez,Uruguay,Club Atletico Boca Juniors,Argentina,MF,Central Midfield,21-25,22,5,0,0,0,0,293,12,0
+Luis Suarez,Uruguay,FC Barcelona,Spain,FW,Centre-Forward,31-35,31,5,2,1,0,0,450,98,51
+Giorgian De Arrascaeta,Uruguay,Cruzeiro Esporte Clube,Brazil,MF,Attacking Midfield,21-25,24,2,0,0,0,0,86,14,2
+Cristhian Stuani,Uruguay,Girona FC,Spain,FW,Centre-Forward,31-35,31,2,0,0,0,0,75,41,5
+Martin Campana,Uruguay,Club Atletico Independiente,Argentina,GK,Goalkeeper,26-30,29,0,0,0,0,0,0,1,0
+Gaston Silva,Uruguay,Club Atletico Independiente,Argentina,DF,Left-Back,21-25,24,0,0,0,0,0,0,17,0
+Lucas Torreira,Uruguay,UC Sampdoria,Italy,MF,Defensive Midfield,21-25,22,5,0,0,0,0,304,3,0
+Matias Vecino,Uruguay,Inter Milan,Italy,MF,Central Midfield,26-30,26,5,0,0,0,0,416,22,1
+Maxi Pereira,Uruguay,FC Porto,Portugal,DF,Right-Back,31-35,34,0,0,0,0,0,0,125,3
+Diego Laxalt,Uruguay,Genoa CFC,Italy,MF,Left Midfield,21-25,25,4,0,0,0,0,301,6,0
+Maxi Gomez,Uruguay,Celta de Vigo,Spain,FW,Centre-Forward,21-25,21,2,0,0,0,0,31,5,0
+Sebastian Coates,Uruguay,Sporting CP,Portugal,DF,Centre-Back,26-30,27,1,0,0,0,0,90,30,1
+Jonathan Urretaviscaya,Uruguay,CF Monterrey,Mexico,FW,Right Winger,26-30,28,1,0,0,0,0,17,4,0
+Edinson Cavani,Uruguay,Paris Saint-Germain,France,FW,Centre-Forward,31-35,31,4,3,0,0,0,344,101,42
+Martin Caceres,Uruguay,SS Lazio,Italy,DF,Right-Back,31-35,31,5,0,0,0,0,450,76,4
+Martin Silva,Uruguay,Club de Regatas Vasco da Gama,Brazil,GK,Goalkeeper,31-35,35,0,0,0,0,0,0,11,0
+Alireza Beiranvand,Iran,Persepolis FC,Iran,GK,Goalkeeper,21-25,25,3,0,0,0,0,270,22,0
+Mehdi Torabi,Iran,Saipa FC,Iran,FW,Left Winger,21-25,23,0,0,0,0,0,0,17,4
+Ehsan Hajsafi,Iran,Olympiacos Piraeus,Greece,DF,Left-Back,26-30,28,3,0,1,1,0,215,94,6
+Rouzbeh Cheshmi,Iran,Esteghlal FC,Iran,DF,Centre-Back,21-25,25,1,0,0,0,0,90,10,1
+Milad Mohammadi,Iran,Akhmat Grozny,Russia,DF,Left-Back,21-25,24,2,0,0,0,0,55,19,0
+Saeid Ezatolahi,Iran,Amkar Perm,Russia,MF,Central Midfield,21-25,21,2,0,0,0,0,166,25,1
+Masoud Shojaei,Iran,AEK Athens,Greece,MF,Attacking Midfield,31-35,34,1,0,0,1,0,68,74,8
+Morteza Pouraliganji,Iran,Al Sadd Sports Club,Qatar,DF,Centre-Back,26-30,26,3,0,0,0,0,270,27,2
+Omid Ebrahimi,Iran,Esteghlal FC,Iran,MF,Defensive Midfield,26-30,30,3,0,0,1,0,261,30,0
+Karim Ansarifard,Iran,Olympiacos Piraeus,Greece,FW,Centre-Forward,26-30,28,3,1,0,1,0,178,64,17
+Vahid Amiri,Iran,Persepolis FC,Iran,FW,Left Winger,26-30,30,3,0,0,1,0,266,36,1
+Mohammad Rashid Mazaheri,Iran,Zob Ahan Esfahan,Iran,GK,Goalkeeper,26-30,29,0,0,0,0,0,0,3,0
+Mohammad Reza Khanzadeh,Iran,Padideh Khorasan FC,Iran,DF,Centre-Back,26-30,26,0,0,0,0,0,0,11,1
+Saman Ghoddos,Iran,Ostersunds FK,Sweden,FW,Centre-Forward,21-25,24,3,0,0,0,0,29,8,1
+Pejman Montazeri,Iran,Esteghlal FC,Iran,DF,Centre-Back,31-35,34,0,0,0,0,0,0,46,1
+Reza Ghoochannejhad,Iran,SC Heerenveen,Netherlands,FW,Centre-Forward,26-30,30,0,0,0,0,0,0,43,17
+Mehdi Taremi,Iran,Al Gharafa Sports Club,Qatar,FW,Centre-Forward,21-25,25,3,0,0,0,0,202,26,11
+Alireza Jahanbakhsh,Iran,AZ Alkmaar,Netherlands,FW,Right Winger,21-25,24,3,0,0,1,0,171,38,4
+Majid Hosseini,Iran,Esteghlal FC,Iran,DF,Centre-Back,21-25,22,3,0,0,0,0,189,1,0
+Sardar Azmoun,Iran,Rubin Kazan,Russia,FW,Centre-Forward,21-25,23,3,0,0,1,0,270,33,23
+Ashkan Dejagah,Iran,Nottingham Forest,England,FW,Right Winger,31-35,32,0,0,0,0,0,0,46,9
+Amir Abedzadeh,Iran,CS Maritimo,Portugal,GK,Goalkeeper,21-25,25,0,0,0,0,0,0,1,0
+Ramin Rezaeian,Iran,KV Oostende,Belgium,DF,Right-Back,26-30,28,3,0,0,0,0,270,28,2
+"Yassine ""Bono"" Bounou",Morocco,Girona FC,Spain,GK,Goalkeeper,26-30,27,0,0,0,0,0,0,11,0
+Achraf Hakimi,Morocco,Real Madrid,Spain,DF,Right-Back,15-20,19,3,0,0,1,0,270,10,1
+Hamza Mendyl,Morocco,LOSC Lille,France,DF,Left-Back,15-20,20,0,0,0,0,0,0,13,0
+Manuel da Costa,Morocco,Basaksehir,Turkey,DF,Centre-Back,31-35,32,3,0,0,1,0,188,28,1
+Medhi Benatia,Morocco,Juventus FC,Italy,DF,Centre-Back,31-35,31,2,0,0,1,0,180,57,2
+Romain Saiss,Morocco,Wolverhampton Wanderers,England,DF,Centre-Back,26-30,28,2,0,0,0,0,180,24,1
+Hakim Ziyech,Morocco,Ajax Amsterdam,Netherlands,MF,Attacking Midfield,21-25,25,3,0,0,0,0,265,18,9
+Karim El Ahmadi,Morocco,Feyenoord Rotterdam,Netherlands,MF,Central Midfield,31-35,33,3,0,0,2,0,266,51,1
+Ayoub El Kaabi,Morocco,Renaissance de Berkane,Morocco,FW,Centre-Forward,21-25,25,2,0,0,0,0,98,10,11
+Younes Belhanda,Morocco,Galatasaray SK,Turkey,MF,Attacking Midfield,26-30,28,3,0,0,0,0,228,47,5
+Faycal Fajr,Morocco,Getafe CF,Spain,MF,Attacking Midfield,26-30,29,2,0,1,0,0,31,23,2
+Munir Mohamedi,Morocco,CD Numancia,Spain,GK,Goalkeeper,26-30,29,3,0,0,1,0,270,27,0
+Khalid Boutaib,Morocco,Yeni Malatyaspor,Turkey,FW,Centre-Forward,31-35,31,2,1,0,0,0,141,18,7
+Mbark Boussoufa,Morocco,Al-Jazira (Abu Dhabi),United Arab Emirates,MF,Attacking Midfield,31-35,33,3,0,0,1,0,270,59,7
+Youssef Ait Bennasser,Morocco,SM Caen,France,MF,Central Midfield,21-25,22,0,0,0,0,0,0,14,0
+Nordin Amrabat,Morocco,CD Leganes,Spain,FW,Left Winger,31-35,31,3,0,0,1,0,256,44,4
+Nabil Dirar,Morocco,Fenerbahce SK,Turkey,DF,Right-Back,31-35,32,2,0,0,0,0,180,34,3
+Amine Harit,Morocco,FC Schalke 04,Germany,MF,Attacking Midfield,21-25,21,1,0,0,0,0,82,6,0
+Youssef En-Nesyri,Morocco,Malaga CF,Spain,FW,Centre-Forward,21-25,21,1,1,0,0,0,18,16,2
+Aziz Bouhaddouz,Morocco,FC St. Pauli,Germany,FW,Centre-Forward,31-35,31,2,0,0,0,0,18,15,3
+Sofyan Amrabat,Morocco,Feyenoord Rotterdam,Netherlands,MF,Central Midfield,21-25,21,1,0,0,0,0,14,6,0
+Ahmed Reda Tagnaouti,Morocco,Ittihad Tanger,Morocco,GK,Goalkeeper,21-25,22,0,0,0,0,0,0,2,0
+Mehdi Carcela,Morocco,Standard Liege,Belgium,FW,Right Winger,26-30,29,1,0,0,0,0,15,20,1
+Rui Patricio,Portugal,Sporting CP,Portugal,GK,Goalkeeper,26-30,30,4,0,0,0,0,360,69,0
+Bruno Alves,Portugal,Rangers FC,Scotland,DF,Centre-Back,36+,36,0,0,0,0,0,0,96,11
+Pepe,Portugal,Besiktas JK,Turkey,DF,Centre-Back,31-35,35,4,1,0,0,0,360,95,5
+Manuel Fernandes,Portugal,Lokomotiv Moscow,Russia,MF,Central Midfield,31-35,32,1,0,0,0,0,6,14,3
+Raphael Guerreiro,Portugal,Borussia Dortmund,Germany,DF,Left-Back,21-25,24,4,0,1,1,0,360,24,2
+Jose Fonte,Portugal,Dalian Yifang,China,DF,Centre-Back,31-35,34,4,0,0,0,0,360,31,0
+Cristiano Ronaldo,Portugal,Real Madrid,Spain,FW,Centre-Forward,31-35,33,4,4,0,2,0,360,150,81
+Joao Moutinho,Portugal,AS Monaco,France,MF,Central Midfield,31-35,31,3,0,1,0,0,185,110,7
+Andre Silva,Portugal,AC Milan,Italy,FW,Centre-Forward,21-25,22,3,0,0,0,0,116,23,12
+Joao Mario,Portugal,West Ham United,England,MF,Attacking Midfield,21-25,25,4,0,0,0,0,260,36,2
+Bernardo Silva,Portugal,Manchester City,England,FW,Right Winger,21-25,23,4,0,0,0,0,238,25,2
+Anthony Lopes,Portugal,Olympique Lyon,France,GK,Goalkeeper,26-30,27,0,0,0,0,0,0,7,0
+Ruben Dias,Portugal,SL Benfica,Portugal,DF,Centre-Back,21-25,21,0,0,0,0,0,0,1,0
+William Carvalho,Portugal,Sporting CP,Portugal,MF,Defensive Midfield,26-30,26,4,0,0,0,0,360,43,2
+Ricardo Pereira,Portugal,FC Porto,Portugal,DF,Right-Back,21-25,24,1,0,0,0,0,90,4,0
+Bruno Fernandes,Portugal,Sporting CP,Portugal,MF,Attacking Midfield,21-25,23,2,0,0,1,0,88,6,1
+Goncalo Guedes,Portugal,Valencia CF,Spain,FW,Left Winger,21-25,21,4,0,1,0,0,244,10,3
+Gelson Martins,Portugal,Sporting CP,Portugal,FW,Right Winger,21-25,23,1,0,0,0,0,31,18,0
+Mario Rui,Portugal,SSC Napoli,Italy,DF,Left-Back,26-30,27,0,0,0,0,0,0,4,0
+Ricardo Quaresma,Portugal,Besiktas JK,Turkey,FW,Right Winger,31-35,34,3,1,0,1,0,116,77,9
+Cedric,Portugal,Southampton FC,England,DF,Right-Back,26-30,26,3,0,0,1,0,270,29,1
+Beto,Portugal,Goztepe,Turkey,GK,Goalkeeper,36+,36,0,0,0,0,0,0,14,0
+Adrien Silva,Portugal,Leicester City,England,MF,Central Midfield,26-30,29,3,0,1,1,0,156,23,1
+David de Gea,Spain,Manchester United,England,GK,Goalkeeper,26-30,27,4,0,0,0,0,390,29,0
+Dani Carvajal,Spain,Real Madrid,Spain,DF,Right-Back,26-30,26,3,0,1,0,0,230,15,0
+Gerard Pique,Spain,FC Barcelona,Spain,DF,Centre-Back,31-35,31,4,0,0,1,0,390,98,5
+Nacho,Spain,Real Madrid,Spain,DF,Centre-Back,26-30,28,2,1,0,0,0,160,17,0
+Sergio Busquets,Spain,FC Barcelona,Spain,MF,Defensive Midfield,26-30,29,4,0,1,1,0,390,103,2
+Andres Iniesta,Spain,FC Barcelona,Spain,MF,Central Midfield,31-35,34,4,0,1,0,0,284,127,14
+Saul,Spain,Atletico Madrid,Spain,MF,Central Midfield,21-25,23,0,0,0,0,0,0,10,0
+Koke,Spain,Atletico Madrid,Spain,MF,Central Midfield,26-30,26,3,0,0,0,0,229,40,0
+Rodrigo,Spain,Valencia CF,Spain,FW,Centre-Forward,26-30,27,3,0,0,0,0,23,6,2
+Thiago,Spain,Bayern Munich,Germany,MF,Central Midfield,26-30,27,2,0,0,0,0,94,29,2
+Lucas Vazquez,Spain,Real Madrid,Spain,FW,Right Winger,26-30,27,2,0,0,0,0,83,7,0
+Alvaro Odriozola,Spain,Real Sociedad,Spain,DF,Right-Back,21-25,22,0,0,0,0,0,0,4,1
+Kepa Arrizabalaga,Spain,Athletic Bilbao,Spain,GK,Goalkeeper,21-25,23,0,0,0,0,0,0,1,0
+Cesar Azpilicueta,Spain,Chelsea FC,England,DF,Right-Back,26-30,28,0,0,0,0,0,0,22,0
+Sergio Ramos,Spain,Real Madrid,Spain,DF,Centre-Back,31-35,32,4,0,0,0,0,390,152,13
+Nacho Monreal,Spain,Arsenal FC,England,DF,Left-Back,31-35,32,0,0,0,0,0,0,22,1
+Iago Aspas,Spain,Celta de Vigo,Spain,FW,Right Winger,26-30,30,3,1,0,0,0,69,10,5
+Jordi Alba,Spain,FC Barcelona,Spain,DF,Left-Back,26-30,29,4,0,0,0,0,390,62,8
+Diego Costa,Spain,Atletico Madrid,Spain,FW,Centre-Forward,26-30,29,4,3,0,0,0,320,20,7
+Marco Asensio,Spain,Real Madrid,Spain,FW,Left Winger,21-25,22,3,0,0,0,0,131,12,0
+David Silva,Spain,Manchester City,England,MF,Attacking Midfield,31-35,32,4,0,0,0,0,327,121,35
+Isco,Spain,Real Madrid,Spain,MF,Attacking Midfield,26-30,26,4,1,0,0,0,390,28,10
+Pepe Reina,Spain,SSC Napoli,Italy,GK,Goalkeeper,31-35,35,0,0,0,0,0,0,36,0
+Mathew Ryan,Australia,Brighton & Hove Albion,England,GK,Goalkeeper,26-30,26,3,0,0,0,0,270,44,0
+Milos Degenek,Australia,Yokohama F. Marinos,Japan,DF,Centre-Back,21-25,24,0,0,0,0,0,0,18,0
+James Meredith,Australia,Millwall FC,England,DF,Left-Back,26-30,30,0,0,0,0,0,0,2,0
+Tim Cahill,Australia,Millwall FC,England,MF,Attacking Midfield,36+,38,1,0,0,0,0,37,106,50
+Mark Milligan,Australia,Al-Ahli Jeddah,Saudi Arabia,DF,Centre-Back,31-35,32,3,0,0,1,0,270,71,6
+Matthew Jurman,Australia,Suwon Samsung Bluewings FC,South Korea,DF,Centre-Back,26-30,28,0,0,0,0,0,0,4,0
+Mathew Leckie,Australia,Hertha BSC,Germany,FW,Right Winger,26-30,27,3,0,0,1,0,270,53,8
+Massimo Luongo,Australia,Queens Park Rangers,England,MF,Central Midfield,21-25,25,0,0,0,0,0,0,36,5
+Tomi Juric,Australia,FC Luzern,Switzerland,FW,Centre-Forward,26-30,26,3,0,0,0,0,94,35,8
+Robbie Kruse,Australia,VfL Bochum,Germany,FW,Left Winger,26-30,29,3,0,0,0,0,210,64,5
+Andrew Nabbout,Australia,Urawa Red Diamonds,Japan,FW,Centre-Forward,21-25,25,2,0,0,0,0,139,4,1
+Brad Jones,Australia,Feyenoord Rotterdam,Netherlands,GK,Goalkeeper,36+,36,0,0,0,0,0,0,6,0
+Aaron Mooy,Australia,Huddersfield Town,England,MF,Central Midfield,26-30,27,3,0,0,0,0,270,34,5
+Jamie Maclaren,Australia,Hibernian FC,Scotland,FW,Centre-Forward,21-25,24,0,0,0,0,0,0,6,0
+Mile Jedinak,Australia,Aston Villa,England,MF,Defensive Midfield,31-35,33,3,2,0,1,0,270,76,18
+Aziz Behich,Australia,Bursaspor,Turkey,DF,Left-Back,26-30,27,3,0,0,1,0,270,23,2
+Daniel Arzani,Australia,Melbourne City FC,Australia,FW,Left Winger,15-20,19,3,0,0,1,0,60,2,1
+Danny Vukovic,Australia,KRC Genk,Belgium,GK,Goalkeeper,31-35,33,0,0,0,0,0,0,1,0
+Josh Risdon,Australia,Western Sydney Wanderers,Australia,DF,Right-Back,21-25,25,3,0,0,1,0,270,8,0
+Trent Sainsbury,Australia,Grasshopper Club Zurich,Switzerland,DF,Centre-Back,26-30,26,3,0,0,0,0,270,35,3
+Dimitri Petratos,Australia,Newcastle United Jets,Australia,MF,Attacking Midfield,21-25,25,0,0,0,0,0,0,2,0
+Jackson Irvine,Australia,Hull City,England,MF,Defensive Midfield,21-25,25,3,0,0,0,0,44,19,2
+Tom Rogic,Australia,Celtic FC,Scotland,MF,Attacking Midfield,21-25,25,3,0,0,1,0,226,37,7
+Kasper Schmeichel,Denmark,Leicester City,England,GK,Goalkeeper,31-35,31,4,0,0,0,0,390,35,0
+Michael Krohn-Dehli,Denmark,Deportivo de La Coruna,Spain,MF,Central Midfield,31-35,35,1,0,0,0,0,22,59,6
+Jannik Vestergaard,Denmark,Borussia Monchengladbach,Germany,DF,Centre-Back,21-25,25,0,0,0,0,0,0,16,1
+Simon Kjaer,Denmark,Sevilla FC,Spain,DF,Centre-Back,26-30,29,4,0,0,0,0,390,78,3
+Jonas Knudsen,Denmark,Ipswich Town,England,DF,Left-Back,21-25,25,1,0,0,0,0,120,3,0
+Andreas Christensen,Denmark,Chelsea FC,England,DF,Centre-Back,21-25,22,4,0,0,0,0,306,16,1
+William Kvist,Denmark,FC Copenhagen,Denmark,MF,Defensive Midfield,31-35,33,1,0,0,0,0,36,80,2
+Thomas Delaney,Denmark,SV Werder Bremen,Germany,MF,Central Midfield,26-30,26,4,0,1,1,0,368,27,4
+Nicolai Jorgensen,Denmark,Feyenoord Rotterdam,Netherlands,FW,Centre-Forward,26-30,27,3,0,1,0,0,212,31,8
+Christian Eriksen,Denmark,Tottenham Hotspur,England,MF,Attacking Midfield,26-30,26,4,1,1,0,0,390,78,22
+Martin Braithwaite,Denmark,FC Girondins Bordeaux,France,FW,Centre-Forward,26-30,27,4,0,0,0,0,249,20,1
+Kasper Dolberg,Denmark,Ajax Amsterdam,Netherlands,FW,Centre-Forward,15-20,20,1,0,0,0,0,15,6,1
+Mathias Jorgensen,Denmark,Huddersfield Town,England,DF,Centre-Back,26-30,28,3,1,0,2,0,219,12,0
+Henrik Dalsgaard,Denmark,Brentford FC,England,DF,Right-Back,26-30,28,4,0,0,0,0,390,11,0
+Viktor Fischer,Denmark,FC Copenhagen,Denmark,FW,Left Winger,21-25,24,1,0,0,0,0,30,19,3
+Jonas Lossl,Denmark,Huddersfield Town,England,GK,Goalkeeper,26-30,29,0,0,0,0,0,0,1,0
+Jens Stryger Larsen,Denmark,Udinese Calcio,Italy,DF,Right-Back,26-30,27,3,0,0,0,0,270,13,1
+Lukas Lerager,Denmark,FC Girondins Bordeaux,France,MF,Central Midfield,21-25,24,1,0,0,0,0,0,4,0
+Lasse Schone,Denmark,Ajax Amsterdam,Netherlands,MF,Defensive Midfield,31-35,32,3,0,0,0,0,218,36,3
+Yussuf Poulsen,Denmark,RB Leipzig,Germany,FW,Centre-Forward,21-25,24,3,1,0,2,0,269,28,4
+Andreas Cornelius,Denmark,Atalanta BC,Italy,FW,Centre-Forward,21-25,25,3,0,0,0,0,163,18,4
+Frederik Ronnow,Denmark,Brondby IF,Denmark,GK,Goalkeeper,21-25,25,0,0,0,0,0,0,6,0
+Pione Sisto,Denmark,Celta de Vigo,Spain,FW,Left Winger,21-25,23,4,0,0,1,0,231,14,1
+Hugo Lloris,France,Tottenham Hotspur,England,GK,Goalkeeper,31-35,31,6,0,0,0,0,540,98,0
+Benjamin Pavard,France,VfB Stuttgart,Germany,DF,Centre-Back,21-25,22,6,1,0,1,0,540,6,0
+Presnel Kimpembe,France,Paris Saint-Germain,France,DF,Centre-Back,21-25,22,1,0,0,0,0,90,2,0
+Raphael Varane,France,Real Madrid,Spain,DF,Centre-Back,21-25,25,7,1,0,0,0,630,42,2
+Samuel Umtiti,France,FC Barcelona,Spain,DF,Centre-Back,21-25,24,6,1,0,0,0,540,19,2
+Paul Pogba,France,Manchester United,England,MF,Central Midfield,21-25,25,6,1,1,1,0,539,54,9
+Antoine Griezmann,France,Atletico Madrid,Spain,FW,Centre-Forward,26-30,27,7,4,3,0,0,572,54,20
+Thomas Lemar,France,AS Monaco,France,FW,Left Winger,21-25,22,1,0,0,0,0,90,12,3
+Olivier Giroud,France,Chelsea FC,England,FW,Centre-Forward,31-35,31,7,0,1,1,0,546,74,31
+Kylian Mbappe,France,Paris Saint-Germain,France,FW,Right Winger,15-20,19,7,4,1,2,0,534,15,4
+Ousmane Dembele,France,FC Barcelona,Spain,FW,Right Winger,21-25,21,4,0,0,0,0,165,12,2
+Corentin Tolisso,France,Bayern Munich,Germany,MF,Central Midfield,21-25,23,5,0,1,1,0,194,9,0
+N'Golo Kante,France,Chelsea FC,England,MF,Defensive Midfield,26-30,27,7,0,0,2,0,595,24,1
+Blaise Matuidi,France,Juventus FC,Italy,MF,Central Midfield,31-35,31,5,0,0,2,0,336,67,9
+Steven Nzonzi,France,Sevilla FC,Spain,MF,Defensive Midfield,26-30,29,5,0,0,0,0,141,4,0
+Steve Mandanda,France,Olympique Marseille,France,GK,Goalkeeper,31-35,33,1,0,0,0,0,90,27,0
+Adil Rami,France,Olympique Marseille,France,DF,Centre-Back,31-35,32,0,0,0,0,0,0,35,1
+Nabil Fekir,France,Olympique Lyon,France,MF,Attacking Midfield,21-25,24,6,0,0,0,0,67,12,2
+Djibril Sidibe,France,AS Monaco,France,DF,Right-Back,21-25,25,1,0,0,0,0,90,17,1
+Florian Thauvin,France,Olympique Marseille,France,FW,Right Winger,21-25,25,1,0,0,0,0,1,4,0
+Lucas Hernandez,France,Atletico Madrid,Spain,DF,Left-Back,21-25,22,7,0,2,2,0,590,5,0
+Benjamin Mendy,France,Manchester City,England,DF,Left-Back,21-25,23,1,0,0,0,0,40,7,0
+Alphonse Areola,France,Paris Saint-Germain,France,GK,Goalkeeper,21-25,25,0,0,0,0,0,0,0,0
+Pedro Gallese,Peru,Tiburones Rojos de Veracruz,Mexico,GK,Goalkeeper,26-30,28,3,0,0,0,0,270,38,0
+Alberto Rodriguez,Peru,Junior FC,Colombia,DF,Centre-Back,31-35,34,2,0,0,0,0,135,59,0
+Aldo Corzo,Peru,Universitario de Deportes,Peru,DF,Right-Back,26-30,29,0,0,0,0,0,0,25,0
+Anderson Santamaria,Peru,Puebla FC,Mexico,DF,Centre-Back,26-30,26,2,0,0,0,0,134,4,0
+Miguel Araujo,Peru,Alianza Lima,Peru,DF,Centre-Back,21-25,23,0,0,0,0,0,0,7,0
+Miguel Trauco,Peru,Clube de Regatas do Flamengo,Brazil,DF,Left-Back,26-30,26,3,0,0,0,0,270,27,0
+Paolo Hurtado,Peru,Vitoria Guimaraes SC,Portugal,MF,Attacking Midfield,26-30,27,1,0,0,1,0,27,31,3
+Christian Cueva,Peru,Sao Paulo Futebol Clube,Brazil,MF,Attacking Midfield,26-30,26,3,0,0,0,0,262,44,8
+Paolo Guerrero,Peru,Clube de Regatas do Flamengo,Brazil,FW,Centre-Forward,31-35,34,3,1,1,1,0,207,88,34
+Jefferson Farfan,Peru,Lokomotiv Moscow,Russia,FW,Right Winger,31-35,33,2,0,0,0,0,129,84,25
+Raul Ruidiaz,Peru,Monarcas Morelia,Mexico,FW,Centre-Forward,26-30,27,2,0,0,0,0,13,30,4
+Carlos Caceda,Peru,Deportivo Municipal,Peru,GK,Goalkeeper,26-30,26,0,0,0,0,0,0,4,0
+Renato Tapia,Peru,Feyenoord Rotterdam,Netherlands,MF,Central Midfield,21-25,22,2,0,0,1,0,150,23,1
+Andy Polo,Peru,Portland Timbers,United States,FW,Right Winger,21-25,23,0,0,0,0,0,0,17,1
+Christian Ramos,Peru,Tiburones Rojos de Veracruz,Mexico,DF,Centre-Back,26-30,29,3,0,0,0,0,270,66,3
+Wilder Cartagena,Peru,Tiburones Rojos de Veracruz,Mexico,MF,Defensive Midfield,21-25,23,1,0,0,0,0,11,3,0
+Luis Advincula,Peru,Lobos BUAP,Mexico,DF,Right-Back,26-30,28,3,0,0,0,0,270,65,0
+Andre Carrillo,Peru,Watford FC,England,FW,Right Winger,26-30,27,3,1,0,0,0,259,45,5
+Yoshimar Yotun,Peru,Orlando City SC,United States,MF,Central Midfield,26-30,28,3,0,0,1,0,180,73,2
+Edison Flores,Peru,Aalborg BK,Denmark,FW,Left Winger,21-25,24,3,0,0,0,0,243,29,9
+Jose Carvallo,Peru,UTC Cajamarca,Peru,GK,Goalkeeper,31-35,32,0,0,0,0,0,0,6,0
+Nilson Loyola,Peru,FBC Melgar,Peru,DF,Left-Back,21-25,23,0,0,0,0,0,0,3,0
+Pedro Aquino,Peru,Lobos BUAP,Mexico,MF,Defensive Midfield,21-25,23,3,0,0,1,0,137,13,0
+Nahuel Guzman,Argentina,Tigres UANL,Mexico,GK,Goalkeeper,31-35,32,0,0,0,0,0,0,6,0
+Gabriel Mercado,Argentina,Sevilla FC,Spain,DF,Right-Back,31-35,31,3,1,1,1,0,270,20,3
+Nicolas Tagliafico,Argentina,Ajax Amsterdam,Netherlands,DF,Left-Back,21-25,25,4,0,0,1,0,350,4,0
+Cristian Ansaldi,Argentina,Torino FC,Italy,DF,Left-Back,31-35,31,0,0,0,0,0,0,5,0
+Lucas Biglia,Argentina,AC Milan,Italy,MF,Defensive Midfield,31-35,32,1,0,0,0,0,54,57,1
+Federico Fazio,Argentina,AS Roma,Italy,DF,Centre-Back,31-35,31,1,0,0,0,0,44,9,1
+Ever Banega,Argentina,Sevilla FC,Spain,MF,Central Midfield,26-30,30,3,0,2,2,0,216,62,6
+Marcos Acuna,Argentina,Sporting CP,Portugal,MF,Left Midfield,26-30,26,1,0,0,1,0,90,10,0
+Gonzalo Higuain,Argentina,Juventus FC,Italy,FW,Centre-Forward,26-30,30,3,0,0,0,0,132,71,31
+Lionel Messi,Argentina,FC Barcelona,Spain,FW,Second Striker,31-35,31,4,1,2,1,0,360,124,64
+Angel Di Maria,Argentina,Paris Saint-Germain,France,FW,Right Winger,26-30,30,3,1,0,0,0,237,94,19
+Franco Armani,Argentina,Club Atletico River Plate,Argentina,GK,Goalkeeper,31-35,31,2,0,0,0,0,180,0,0
+Maximiliano Meza,Argentina,Club Atletico Independiente,Argentina,MF,Attacking Midfield,26-30,26,4,0,0,0,0,207,2,0
+Javier Mascherano,Argentina,Hebei China Fortune,China,MF,Defensive Midfield,31-35,34,4,0,0,2,0,360,143,3
+Enzo Perez,Argentina,Club Atletico River Plate,Argentina,MF,Central Midfield,31-35,32,3,0,0,0,0,195,23,1
+Marcos Rojo,Argentina,Manchester United,England,DF,Centre-Back,26-30,28,3,1,1,1,0,225,56,2
+Nicolas Otamendi,Argentina,Manchester City,England,DF,Centre-Back,26-30,30,4,0,0,2,0,360,54,4
+Eduardo Salvio,Argentina,SL Benfica,Portugal,MF,Right Midfield,26-30,27,2,0,0,0,0,146,9,0
+Sergio Aguero,Argentina,Manchester City,England,FW,Centre-Forward,26-30,30,4,2,0,0,0,178,85,37
+Giovani Lo Celso,Argentina,Paris Saint-Germain,France,MF,Central Midfield,21-25,22,0,0,0,0,0,0,5,0
+Paulo Dybala,Argentina,Juventus FC,Italy,FW,Second Striker,21-25,24,1,0,0,0,0,22,12,0
+Cristian Pavon,Argentina,Club Atletico Boca Juniors,Argentina,FW,Right Winger,21-25,22,4,0,0,0,0,153,5,0
+Willy Caballero,Argentina,Chelsea FC,England,GK,Goalkeeper,36+,36,2,0,0,0,0,180,3,0
+Dominik Livakovic,Croatia,GNK Dinamo Zagreb,Croatia,GK,Goalkeeper,21-25,23,0,0,0,0,0,0,1,0
+Sime Vrsaljko,Croatia,Atletico Madrid,Spain,DF,Right-Back,26-30,26,6,0,1,2,0,607,35,0
+Ivan Strinic,Croatia,UC Sampdoria,Italy,DF,Left-Back,26-30,30,6,0,0,1,0,511,43,0
+Ivan Perisic,Croatia,Inter Milan,Italy,FW,Left Winger,26-30,29,7,3,1,0,0,632,66,18
+Vedran Corluka,Croatia,Lokomotiv Moscow,Russia,DF,Centre-Back,31-35,32,4,0,0,1,0,118,99,4
+Dejan Lovren,Croatia,Liverpool FC,England,DF,Centre-Back,26-30,29,7,0,0,1,0,650,39,2
+Ivan Rakitic,Croatia,FC Barcelona,Spain,MF,Central Midfield,26-30,30,7,1,0,1,0,638,92,14
+Mateo Kovacic,Croatia,Real Madrid,Spain,MF,Central Midfield,21-25,24,5,0,1,0,0,183,41,1
+Andrej Kramaric,Croatia,TSG 1899 Hoffenheim,Germany,FW,Centre-Forward,26-30,27,7,1,0,0,0,332,31,9
+Luka Modric,Croatia,Real Madrid,Spain,MF,Central Midfield,31-35,32,7,2,1,0,0,694,106,12
+Marcelo Brozovic,Croatia,Inter Milan,Italy,MF,Central Midfield,21-25,25,6,0,1,1,0,458,35,6
+Lovre Kalinic,Croatia,KAA Gent,Belgium,GK,Goalkeeper,26-30,28,1,0,0,0,0,90,11,0
+Tin Jedvaj,Croatia,Bayer 04 Leverkusen,Germany,DF,Centre-Back,21-25,22,1,0,0,1,0,90,12,0
+Filip Bradaric,Croatia,HNK Rijeka,Croatia,MF,Defensive Midfield,26-30,26,1,0,0,0,0,25,4,0
+Duje Caleta-Car,Croatia,Red Bull Salzburg,Austria,DF,Centre-Back,21-25,21,1,0,0,0,0,90,1,0
+Nikola Kalinic,Croatia,AC Milan,Italy,FW,Centre-Forward,26-30,30,0,0,0,0,0,0,42,15
+Mario Mandzukic,Croatia,Juventus FC,Italy,FW,Left Winger,31-35,32,6,3,1,2,0,609,83,30
+Ante Rebic,Croatia,Eintracht Frankfurt,Germany,FW,Left Winger,21-25,24,6,1,0,2,0,547,16,1
+Milan Badelj,Croatia,ACF Fiorentina,Italy,MF,Defensive Midfield,26-30,29,3,1,1,0,0,103,38,1
+Marko Pjaca,Croatia,FC Schalke 04,Germany,FW,Left Winger,21-25,23,3,0,0,1,0,83,16,1
+Domagoj Vida,Croatia,Besiktas JK,Turkey,DF,Centre-Back,26-30,29,6,1,1,1,0,630,59,2
+Josip Pivaric,Croatia,Dynamo Kyiv,Ukraine,DF,Left-Back,26-30,29,4,0,1,1,0,200,19,0
+Danijel Subasic,Croatia,AS Monaco,France,GK,Goalkeeper,31-35,33,6,0,0,0,0,630,38,0
+Hannes Halldorsson,Iceland,Randers FC,Denmark,GK,Goalkeeper,31-35,34,3,0,0,0,0,270,49,0
+Birkir Mar Saevarsson,Iceland,Valur Reykjavik,Iceland,DF,Right-Back,31-35,33,3,0,0,1,0,270,79,1
+Samuel Fridjonsson,Iceland,Valerenga Oslo,Norway,MF,Defensive Midfield,21-25,22,0,0,0,0,0,0,4,0
+Albert Gudmundsson,Iceland,PSV Eindhoven,Netherlands,FW,Right Winger,21-25,21,1,0,0,0,0,5,5,3
+Sverrir Ingi Ingason,Iceland,FK Rostov,Russia,DF,Centre-Back,21-25,24,2,0,0,0,0,115,20,3
+Ragnar Sigurdsson,Iceland,FK Rostov,Russia,DF,Centre-Back,31-35,32,3,0,0,0,0,226,77,3
+Johann Berg Gudmundsson,Iceland,Burnley FC,England,FW,Right Winger,26-30,27,2,0,0,0,0,153,67,7
+Birkir Bjarnason,Iceland,Aston Villa,England,MF,Central Midfield,26-30,30,3,0,0,0,0,270,67,9
+Bjorn Bergmann Sigurdarson,Iceland,FK Rostov,Russia,FW,Centre-Forward,26-30,27,3,0,0,0,0,39,12,1
+Gylfi Sigurdsson,Iceland,Everton FC,England,MF,Attacking Midfield,26-30,28,3,1,1,0,0,270,57,19
+Alfred Finnbogason,Iceland,FC Augsburg,Germany,FW,Centre-Forward,26-30,29,3,1,0,1,0,264,47,13
+Frederik Schram,Iceland,FC Roskilde,Denmark,GK,Goalkeeper,21-25,23,0,0,0,0,0,0,4,0
+Runar Alex Runarsson,Iceland,FC Nordsjaelland,Denmark,GK,Goalkeeper,21-25,23,0,0,0,0,0,0,3,0
+Kari Arnason,Iceland,Aberdeen FC,Scotland,DF,Centre-Back,31-35,35,2,0,0,0,0,180,67,5
+Holmar Orn Eyjolfsson,Iceland,Levski Sofia,Bulgaria,DF,Centre-Back,26-30,27,0,0,0,0,0,0,10,1
+Olafur Ingi Skulason,Iceland,Kardemir Karabukspor,Turkey,MF,Defensive Midfield,31-35,35,0,0,0,0,0,0,36,1
+Aron Gunnarsson,Iceland,Cardiff City,England,MF,Central Midfield,26-30,29,3,0,0,0,0,253,77,2
+Hordur Bjorgvin Magnusson,Iceland,Bristol City,England,DF,Centre-Back,21-25,25,3,0,0,0,0,270,16,2
+Rurik Gislason,Iceland,SV Sandhausen,Germany,FW,Right Winger,26-30,30,2,0,0,0,0,117,47,3
+Emil Hallfredsson,Iceland,Udinese Calcio,Italy,MF,Central Midfield,31-35,34,2,0,0,1,0,180,64,1
+Arnor Ingvi Traustason,Iceland,Malmo FF,Sweden,MF,Left Midfield,21-25,25,1,0,0,0,0,0,19,5
+Jon Dadi Bodvarsson,Iceland,Reading FC,England,FW,Centre-Forward,26-30,26,1,0,0,0,0,71,38,2
+Ari Freyr Skulason,Iceland,KSC Lokeren,Belgium,DF,Left-Back,31-35,31,2,0,0,0,0,17,56,0
+Ikechukwu Ezenwa,Nigeria,Enyimba Aba,Nigeria,GK,Goalkeeper,26-30,29,0,0,0,0,0,0,24,0
+Brian Idowu,Nigeria,Amkar Perm,Russia,DF,Right-Back,26-30,26,3,0,0,1,0,225,5,1
+Elderson Echiejile,Nigeria,Cercle Brugge,Belgium,DF,Left-Back,26-30,30,0,0,0,0,0,0,62,3
+Wilfred Ndidi,Nigeria,Leicester City,England,MF,Defensive Midfield,21-25,21,3,0,0,0,0,270,17,0
+William Troost-Ekong,Nigeria,Bursaspor,Turkey,DF,Centre-Back,21-25,24,3,0,0,1,0,270,22,1
+Leon Balogun,Nigeria,1.FSV Mainz 05,Germany,DF,Centre-Back,26-30,30,3,0,1,1,0,270,19,0
+Ahmed Musa,Nigeria,CSKA Moscow,Russia,FW,Centre-Forward,21-25,25,3,2,0,0,0,208,72,13
+Oghenekaro Etebo,Nigeria,UD Las Palmas,Spain,MF,Central Midfield,21-25,22,3,0,0,0,0,270,14,1
+Odion Ighalo,Nigeria,Changchun Yatai,China,FW,Centre-Forward,26-30,29,3,0,0,0,0,121,19,4
+John Obi Mikel,Nigeria,Tianjin Teda,China,MF,Defensive Midfield,31-35,31,3,0,0,1,0,268,85,6
+Victor Moses,Nigeria,Chelsea FC,England,FW,Right Winger,26-30,27,3,1,1,0,0,270,34,11
+Shehu Abdullahi,Nigeria,Bursaspor,Turkey,DF,Right-Back,21-25,25,1,0,0,0,0,90,25,0
+Simeon Nwankwo,Nigeria,FC Crotone,Italy,FW,Centre-Forward,26-30,26,2,0,0,0,0,2,2,0
+Kelechi Iheanacho,Nigeria,Leicester City,England,FW,Centre-Forward,21-25,21,3,0,0,0,0,148,18,8
+Joel Obi,Nigeria,Torino FC,Italy,MF,Central Midfield,26-30,27,0,0,0,0,0,0,17,0
+Daniel Akpeyi,Nigeria,Chippa United,South Africa,GK,Goalkeeper,31-35,31,0,0,0,0,0,0,7,0
+Ogenyi Onazi,Nigeria,Trabzonspor,Turkey,MF,Defensive Midfield,21-25,25,0,0,0,0,0,0,52,1
+Alex Iwobi,Nigeria,Arsenal FC,England,FW,Left Winger,21-25,22,3,0,0,0,0,62,19,5
+John Ogu,Nigeria,Hapoel Beer Sheva,Israel,MF,Central Midfield,26-30,30,0,0,0,0,0,0,20,2
+Chidozie Awaziem,Nigeria,FC Nantes,France,DF,Centre-Back,21-25,21,0,0,0,0,0,0,4,0
+Tyronne Ebuehi,Nigeria,ADO Den Haag,Netherlands,DF,Right-Back,21-25,22,1,0,0,0,0,44,7,0
+Kenneth Omeruo,Nigeria,Kasimpasa,Turkey,DF,Centre-Back,21-25,24,2,0,1,0,0,180,39,0
+Francis Uzoho,Nigeria,Deportivo de La Coruna,Spain,GK,Goalkeeper,15-20,19,3,0,0,0,0,270,6,0
+Alisson,Brazil,AS Roma,Italy,GK,Goalkeeper,21-25,25,5,0,0,0,0,450,26,0
+Thiago Silva,Brazil,Paris Saint-Germain,France,DF,Centre-Back,31-35,33,5,1,0,0,0,450,71,5
+Miranda,Brazil,Inter Milan,Italy,DF,Centre-Back,31-35,33,5,0,0,0,0,450,47,2
+Pedro Geromel,Brazil,Gremio Foot-Ball Porto Alegrense,Brazil,DF,Centre-Back,31-35,32,0,0,0,0,0,0,2,0
+Casemiro,Brazil,Real Madrid,Spain,MF,Defensive Midfield,26-30,26,4,0,0,2,0,330,24,0
+Filipe Luis,Brazil,Atletico Madrid,Spain,DF,Left-Back,31-35,32,2,0,0,1,0,170,33,2
+Douglas Costa,Brazil,Juventus FC,Italy,FW,Right Winger,26-30,27,2,0,1,0,0,76,25,3
+Renato Augusto,Brazil,Beijing Sinobo Guoan,China,MF,Central Midfield,26-30,30,3,1,0,0,0,50,28,5
+Gabriel Jesus,Brazil,Manchester City,England,FW,Centre-Forward,21-25,21,5,0,1,0,0,407,17,10
+Neymar,Brazil,Paris Saint-Germain,France,FW,Left Winger,26-30,26,5,2,2,1,0,450,85,55
+Philippe Coutinho,Brazil,FC Barcelona,Spain,MF,Attacking Midfield,26-30,26,5,2,2,1,0,436,37,10
+Marcelo,Brazil,Real Madrid,Spain,DF,Left-Back,26-30,30,4,0,0,0,0,280,54,6
+Marquinhos,Brazil,Paris Saint-Germain,France,DF,Centre-Back,21-25,24,1,0,0,0,0,0,26,0
+Danilo,Brazil,Manchester City,England,DF,Right-Back,26-30,26,1,0,0,0,0,90,18,0
+Paulinho,Brazil,FC Barcelona,Spain,MF,Central Midfield,26-30,29,5,1,0,0,0,354,50,12
+Cassio,Brazil,Sport Club Corinthians Paulista,Brazil,GK,Goalkeeper,31-35,31,0,0,0,0,0,0,1,0
+Fernandinho,Brazil,Manchester City,England,MF,Defensive Midfield,31-35,33,5,0,0,1,0,154,44,2
+Fred,Brazil,Shakhtar Donetsk,Ukraine,MF,Central Midfield,21-25,25,0,0,0,0,0,0,8,0
+Willian,Brazil,Chelsea FC,England,FW,Right Winger,26-30,29,5,0,1,0,0,360,57,8
+Roberto Firmino,Brazil,Liverpool FC,England,FW,Second Striker,26-30,26,4,1,0,0,0,81,21,6
+Taison,Brazil,Shakhtar Donetsk,Ukraine,FW,Left Winger,26-30,30,0,0,0,0,0,0,8,1
+Fagner,Brazil,Sport Club Corinthians Paulista,Brazil,DF,Right-Back,26-30,29,4,0,0,1,0,360,4,0
+Ederson,Brazil,Manchester City,England,GK,Goalkeeper,21-25,24,0,0,0,0,0,0,1,0
+Keylor Navas,Costa Rica,Real Madrid,Spain,GK,Goalkeeper,31-35,31,3,0,0,0,0,270,81,0
+Johnny Acosta,Costa Rica,Rionegro Aguilas,Colombia,DF,Centre-Back,31-35,34,3,0,0,1,0,270,69,2
+Giancarlo Gonzalez,Costa Rica,Bologna FC 1909,Italy,DF,Centre-Back,26-30,30,3,0,0,0,0,270,70,2
+Ian Smith,Costa Rica,IFK Norrkoping,Sweden,DF,Right-Back,15-20,20,1,0,0,0,0,0,4,0
+Celso Borges,Costa Rica,Deportivo de La Coruna,Spain,MF,Central Midfield,26-30,30,3,0,0,0,0,270,113,21
+oscar Duarte,Costa Rica,RCD Espanyol Barcelona,Spain,DF,Centre-Back,26-30,29,2,0,0,0,0,180,39,2
+Christian Bolanos,Costa Rica,Deportivo Saprissa,Costa Rica,FW,Right Winger,31-35,34,2,0,0,0,0,66,81,6
+Bryan Oviedo,Costa Rica,Sunderland AFC,England,DF,Left-Back,26-30,28,2,0,0,0,0,180,44,1
+Daniel Colindres,Costa Rica,Deportivo Saprissa,Costa Rica,FW,Left Winger,31-35,33,2,0,0,0,0,98,11,0
+Bryan Ruiz,Costa Rica,Sporting CP,Portugal,MF,Left Midfield,31-35,32,3,0,1,0,0,270,110,24
+Johan Venegas,Costa Rica,Deportivo Saprissa,Costa Rica,MF,Right Midfield,26-30,29,2,0,0,0,0,150,47,10
+Joel Campbell,Costa Rica,Real Betis Balompie,Spain,FW,Right Winger,26-30,26,2,0,1,1,0,114,77,15
+Rodney Wallace,Costa Rica,New York City FC,United States,MF,Left Midfield,26-30,30,1,0,0,0,0,9,30,4
+Randall Azofeifa,Costa Rica,CS Herediano,Costa Rica,MF,Defensive Midfield,31-35,33,1,0,0,0,0,0,58,3
+Francisco Calvo,Costa Rica,Minnesota United FC,United States,DF,Centre-Back,26-30,26,2,0,0,1,0,105,38,4
+Cristian Gamboa,Costa Rica,Celtic FC,Scotland,DF,Right-Back,26-30,28,3,0,0,1,0,255,68,3
+Yeltsin Tejeda,Costa Rica,FC Lausanne-Sport,Switzerland,MF,Defensive Midfield,26-30,26,1,0,0,0,0,7,51,0
+Patrick Pemberton,Costa Rica,LD Alajuelense,Costa Rica,GK,Goalkeeper,36+,36,0,0,0,0,0,0,39,0
+Kendall Waston,Costa Rica,Vancouver Whitecaps,Canada,DF,Centre-Back,26-30,30,1,1,0,1,0,90,26,3
+David Guzman,Costa Rica,Portland Timbers,United States,MF,Defensive Midfield,26-30,28,3,0,0,1,0,246,43,0
+Marco Urena,Costa Rica,Los Angeles FC,United States,FW,Second Striker,26-30,28,2,0,0,0,0,120,64,15
+Kenner Gutierrez,Costa Rica,LD Alajuelense,Costa Rica,DF,Centre-Back,26-30,29,0,0,0,0,0,0,9,0
+Leonel Moreira,Costa Rica,CS Herediano,Costa Rica,GK,Goalkeeper,26-30,28,0,0,0,0,0,0,9,0
+Vladimir Stojkovic,Serbia,FK Partizan Belgrade,Serbia,GK,Goalkeeper,31-35,34,3,0,0,0,0,270,81,0
+Antonio Rukavina,Serbia,Villarreal CF,Spain,DF,Right-Back,31-35,34,2,0,0,0,0,97,47,0
+Dusko Tosic,Serbia,Besiktas JK,Turkey,DF,Centre-Back,31-35,33,2,0,0,0,0,180,24,1
+Luka Milivojevic,Serbia,Crystal Palace,England,MF,Defensive Midfield,26-30,27,2,0,0,1,0,171,28,1
+Uros Spajic,Serbia,RSC Anderlecht,Belgium,DF,Centre-Back,21-25,25,0,0,0,0,0,0,5,0
+Branislav Ivanovic,Serbia,Zenit St. Petersburg,Russia,DF,Centre-Back,31-35,34,2,0,0,1,0,180,103,13
+Andrija Zivkovic,Serbia,SL Benfica,Portugal,MF,Attacking Midfield,21-25,21,1,0,0,0,0,15,10,0
+Aleksandar Prijovic,Serbia,PAOK Thessaloniki,Greece,FW,Centre-Forward,26-30,28,1,0,0,1,0,0,9,1
+Aleksandar Mitrovic,Serbia,Fulham FC,England,FW,Centre-Forward,21-25,23,3,1,0,2,0,269,37,16
+Dusan Tadic,Serbia,Southampton FC,England,MF,Attacking Midfield,26-30,29,3,0,1,0,0,263,53,13
+Aleksandar Kolarov,Serbia,AS Roma,Italy,DF,Left-Back,31-35,32,3,1,0,0,0,270,76,10
+Predrag Rajkovic,Serbia,Maccabi Tel Aviv,Israel,GK,Goalkeeper,21-25,22,0,0,0,0,0,0,8,0
+Milos Veljkovic,Serbia,SV Werder Bremen,Germany,DF,Centre-Back,21-25,22,1,0,0,0,0,90,2,0
+Milan Rodic,Serbia,Red Star Belgrade,Serbia,DF,Left-Back,26-30,27,0,0,0,0,0,0,1,0
+Nikola Milenkovic,Serbia,ACF Fiorentina,Italy,DF,Centre-Back,15-20,20,3,0,0,0,0,270,3,0
+Marko Grujic,Serbia,Cardiff City,England,MF,Central Midfield,21-25,22,0,0,0,0,0,0,8,0
+Filip Kostic,Serbia,Hamburger SV,Germany,FW,Left Winger,21-25,25,3,0,0,0,0,166,23,2
+Nemanja Radonjic,Serbia,Red Star Belgrade,Serbia,FW,Left Winger,21-25,22,2,0,0,0,0,17,3,0
+Luka Jovic,Serbia,Eintracht Frankfurt,Germany,FW,Centre-Forward,15-20,20,1,0,0,0,0,1,1,0
+Sergej Milinkovic-Savic,Serbia,SS Lazio,Italy,MF,Central Midfield,21-25,23,3,0,0,1,0,270,4,0
+Nemanja Matic,Serbia,Manchester United,England,MF,Defensive Midfield,26-30,29,3,0,0,2,0,270,40,2
+Adem Ljajic,Serbia,Torino FC,Italy,MF,Attacking Midfield,26-30,26,3,0,0,1,0,171,29,6
+Marko Dmitrovic,Serbia,SD Eibar,Spain,GK,Goalkeeper,26-30,26,0,0,0,0,0,0,2,0
+Yann Sommer,Switzerland,Borussia Monchengladbach,Germany,GK,Goalkeeper,26-30,29,4,0,0,0,0,360,35,0
+Stephan Lichtsteiner,Switzerland,Juventus FC,Italy,DF,Right-Back,31-35,34,3,0,0,2,0,267,100,8
+Francois Moubandje,Switzerland,FC Toulouse,France,DF,Left-Back,26-30,28,0,0,0,0,0,0,18,0
+Nico Elvedi,Switzerland,Borussia Monchengladbach,Germany,DF,Centre-Back,21-25,21,0,0,0,0,0,0,6,0
+Manuel Akanji,Switzerland,Borussia Dortmund,Germany,DF,Centre-Back,21-25,22,4,0,0,0,0,360,7,0
+Michael Lang,Switzerland,FC Basel 1893,Switzerland,DF,Right-Back,26-30,27,3,0,0,0,1,102,24,2
+Breel Embolo,Switzerland,FC Schalke 04,Germany,FW,Centre-Forward,21-25,21,4,0,1,0,0,134,25,3
+Remo Freuler,Switzerland,Atalanta BC,Italy,MF,Central Midfield,26-30,26,0,0,0,0,0,0,10,0
+Haris Seferovic,Switzerland,SL Benfica,Portugal,FW,Centre-Forward,26-30,26,3,0,0,0,0,142,51,12
+Granit Xhaka,Switzerland,Arsenal FC,England,MF,Defensive Midfield,21-25,25,4,1,0,1,0,360,62,9
+Valon Behrami,Switzerland,Udinese Calcio,Italy,MF,Defensive Midfield,31-35,33,4,0,0,2,0,311,79,2
+Yvon Mvogo,Switzerland,RB Leipzig,Germany,GK,Goalkeeper,21-25,24,0,0,0,0,0,0,0,0
+Ricardo Rodriguez,Switzerland,AC Milan,Italy,DF,Left-Back,21-25,25,4,0,0,0,0,360,53,5
+Steven Zuber,Switzerland,TSG 1899 Hoffenheim,Germany,MF,Left Midfield,26-30,26,3,1,0,0,0,253,12,3
+Blerim Dzemaili,Switzerland,Bologna FC 1909,Italy,MF,Central Midfield,31-35,32,4,1,0,0,0,326,65,9
+Gelson Fernandes,Switzerland,Eintracht Frankfurt,Germany,MF,Defensive Midfield,31-35,31,0,0,0,0,0,0,67,2
+Denis Zakaria,Switzerland,Borussia Monchengladbach,Germany,MF,Defensive Midfield,21-25,21,2,0,1,1,0,49,10,0
+Mario Gavranovic,Switzerland,GNK Dinamo Zagreb,Croatia,FW,Centre-Forward,26-30,28,2,0,1,0,0,113,14,5
+Josip Drmic,Switzerland,Borussia Monchengladbach,Germany,FW,Centre-Forward,21-25,25,3,1,0,0,0,111,29,9
+Johan Djourou,Switzerland,Antalyaspor,Turkey,DF,Centre-Back,31-35,31,1,0,0,0,0,90,74,2
+Roman Burki,Switzerland,Borussia Dortmund,Germany,GK,Goalkeeper,26-30,27,0,0,0,0,0,0,9,0
+Fabian Schar,Switzerland,Deportivo de La Coruna,Spain,DF,Centre-Back,26-30,26,3,0,0,2,0,270,39,7
+Xherdan Shaqiri,Switzerland,Stoke City,England,FW,Right Winger,26-30,26,4,1,1,1,0,351,70,20
+Manuel Neuer,Germany,Bayern Munich,Germany,GK,Goalkeeper,31-35,32,3,0,0,0,0,270,76,0
+Marvin Plattenhardt,Germany,Hertha BSC,Germany,DF,Left-Back,26-30,26,1,0,0,0,0,79,6,0
+Jonas Hector,Germany,1. FC Koln,Germany,DF,Left-Back,26-30,28,2,0,0,0,0,165,38,3
+Matthias Ginter,Germany,Borussia Monchengladbach,Germany,DF,Centre-Back,21-25,24,0,0,0,0,0,0,18,0
+Mats Hummels,Germany,Bayern Munich,Germany,DF,Centre-Back,26-30,29,2,0,0,1,0,180,64,5
+Sami Khedira,Germany,Juventus FC,Italy,MF,Central Midfield,31-35,31,2,0,0,0,0,118,75,7
+Julian Draxler,Germany,Paris Saint-Germain,France,MF,Central Midfield,21-25,24,2,0,0,0,0,135,44,6
+Toni Kroos,Germany,Real Madrid,Spain,MF,Central Midfield,26-30,28,3,1,0,0,0,270,83,12
+Timo Werner,Germany,RB Leipzig,Germany,FW,Centre-Forward,21-25,22,3,0,0,0,0,266,14,8
+Mesut Ozil,Germany,Arsenal FC,England,MF,Attacking Midfield,26-30,29,2,0,0,0,0,180,90,23
+Marco Reus,Germany,Borussia Dortmund,Germany,FW,Left Winger,26-30,29,3,1,1,0,0,210,31,9
+Kevin Trapp,Germany,Paris Saint-Germain,France,GK,Goalkeeper,26-30,28,0,0,0,0,0,0,3,0
+Thomas Muller,Germany,Bayern Munich,Germany,FW,Right Winger,26-30,28,3,0,0,1,0,207,91,38
+Leon Goretzka,Germany,FC Schalke 04,Germany,MF,Central Midfield,21-25,23,1,0,0,0,0,63,15,6
+Niklas Sule,Germany,Bayern Munich,Germany,DF,Centre-Back,21-25,22,1,0,0,0,0,90,11,0
+Antonio Rudiger,Germany,Chelsea FC,England,DF,Centre-Back,21-25,25,1,0,0,0,0,90,24,1
+Jerome Boateng,Germany,Bayern Munich,Germany,DF,Centre-Back,26-30,29,2,0,0,0,1,172,71,1
+Joshua Kimmich,Germany,Bayern Munich,Germany,DF,Right-Back,21-25,23,3,0,0,0,0,270,29,3
+Sebastian Rudy,Germany,Bayern Munich,Germany,MF,Defensive Midfield,26-30,28,1,0,0,0,0,31,25,1
+Julian Brandt,Germany,Bayer 04 Leverkusen,Germany,FW,Left Winger,21-25,22,3,0,0,0,0,19,16,1
+Ilkay Gundogan,Germany,Manchester City,England,MF,Central Midfield,26-30,27,1,0,0,0,0,59,26,4
+Marc-Andre ter Stegen,Germany,FC Barcelona,Spain,GK,Goalkeeper,26-30,26,0,0,0,0,0,0,20,0
+Mario Gomez,Germany,VfB Stuttgart,Germany,FW,Centre-Forward,31-35,33,3,0,1,0,0,87,75,31
+Jose de Jesus Corona,Mexico,CD Cruz Azul,Mexico,GK,Goalkeeper,36+,37,0,0,0,0,0,0,52,0
+Hugo Ayala,Mexico,Tigres UANL,Mexico,DF,Centre-Back,31-35,31,2,0,0,0,0,180,43,1
+Carlos Salcedo,Mexico,Eintracht Frankfurt,Germany,DF,Centre-Back,21-25,24,4,0,0,1,0,360,21,0
+Rafael Marquez,Mexico,Atlas Guadalajara,Mexico,DF,Centre-Back,36+,39,3,0,0,0,0,83,145,18
+Erick Gutierrez,Mexico,CF Pachuca,Mexico,MF,Central Midfield,21-25,23,0,0,0,0,0,0,9,0
+Jonathan dos Santos,Mexico,Los Angeles Galaxy,United States,MF,Central Midfield,26-30,28,1,0,0,0,0,35,32,0
+Miguel Layun,Mexico,Sevilla FC,Spain,MF,Right Midfield,26-30,30,4,0,0,1,0,313,64,6
+Marco Fabian,Mexico,Eintracht Frankfurt,Germany,MF,Attacking Midfield,26-30,28,1,0,0,0,0,25,39,9
+Raul Jimenez,Mexico,SL Benfica,Portugal,FW,Centre-Forward,26-30,27,2,0,0,0,0,54,63,13
+Giovani dos Santos,Mexico,Los Angeles Galaxy,United States,FW,Second Striker,26-30,29,1,0,0,0,0,13,105,19
+Carlos Vela,Mexico,Los Angeles FC,United States,FW,Right Winger,26-30,29,4,1,0,0,0,315,68,18
+Alfredo Talavera,Mexico,Deportivo Toluca,Mexico,GK,Goalkeeper,31-35,35,0,0,0,0,0,0,27,0
+Guillermo Ochoa,Mexico,Standard Liege,Belgium,GK,Goalkeeper,31-35,32,4,0,0,0,0,360,94,0
+Javier Hernandez,Mexico,West Ham United,England,FW,Centre-Forward,26-30,30,4,1,1,0,0,330,102,49
+Hector Moreno,Mexico,Real Sociedad,Spain,DF,Centre-Back,26-30,30,3,0,0,2,0,270,92,3
+Hector Herrera,Mexico,FC Porto,Portugal,MF,Central Midfield,26-30,28,4,0,0,2,0,360,66,5
+Jesus Manuel Corona,Mexico,FC Porto,Portugal,FW,Right Winger,21-25,25,2,0,0,0,0,34,36,7
+Andres Guardado,Mexico,Real Betis Balompie,Spain,MF,Central Midfield,31-35,31,4,0,0,1,0,307,145,25
+Oribe Peralta,Mexico,CF America,Mexico,FW,Centre-Forward,31-35,34,1,0,0,0,0,1,67,26
+Javier Aquino,Mexico,Tigres UANL,Mexico,FW,Left Winger,26-30,28,0,0,0,0,0,0,53,0
+Edson Alvarez,Mexico,CF America,Mexico,DF,Centre-Back,15-20,20,4,0,0,1,0,267,13,1
+Hirving Lozano,Mexico,PSV Eindhoven,Netherlands,FW,Left Winger,21-25,22,4,1,1,0,0,317,28,7
+Jesus Gallardo,Mexico,UNAM Pumas,Mexico,FW,Left Winger,21-25,23,4,0,0,1,0,335,23,0
+Kim Seung-gyu,South Korea,Vissel Kobe,Japan,GK,Goalkeeper,26-30,27,0,0,0,0,0,0,33,0
+Lee Yong,South Korea,Jeonbuk Hyundai Motors FC,South Korea,DF,Right-Back,31-35,31,3,0,0,1,0,270,28,0
+Jung Seung-hyun,South Korea,Sagan Tosu,Japan,DF,Centre-Back,21-25,24,0,0,0,0,0,0,6,0
+Oh Ban-suk,South Korea,Jeju United FC,South Korea,DF,Centre-Back,26-30,30,0,0,0,0,0,0,2,0
+Yun Young-sun,South Korea,Seongnam FC,South Korea,DF,Centre-Back,26-30,29,1,0,0,0,0,90,6,0
+Park Joo-ho,South Korea,Ulsan Hyundai,South Korea,DF,Left-Back,31-35,31,1,0,0,0,0,28,36,0
+Son Heung-min,South Korea,Tottenham Hotspur,England,FW,Left Winger,26-30,26,3,2,0,1,0,270,67,21
+Ju Se-jong,South Korea,Asan Mugunghwa FC,South Korea,MF,Defensive Midfield,26-30,27,2,0,1,0,0,85,11,1
+Kim Shin-wook,South Korea,Jeonbuk Hyundai Motors FC,South Korea,FW,Centre-Forward,26-30,30,1,0,0,1,0,66,50,10
+Lee Seung-woo,South Korea,Hellas Verona,Italy,FW,Left Winger,15-20,20,2,0,0,1,0,43,4,0
+Hwang Hee-chan,South Korea,Red Bull Salzburg,Austria,FW,Centre-Forward,21-25,22,3,0,0,1,0,203,14,2
+Kim Min-woo,South Korea,Sangju Sangmu FC,South Korea,MF,Left Midfield,26-30,28,2,0,0,0,0,146,20,1
+Koo Ja-cheol,South Korea,FC Augsburg,Germany,MF,Attacking Midfield,26-30,29,2,0,0,0,0,129,68,19
+Hong Chul,South Korea,Sangju Sangmu FC,South Korea,DF,Left-Back,26-30,27,2,0,0,0,0,96,14,0
+Jung Woo-young,South Korea,Vissel Kobe,Japan,MF,Defensive Midfield,26-30,28,3,0,0,2,0,127,30,1
+Ki Sung-yueng,South Korea,Swansea City,England,MF,Defensive Midfield,26-30,29,2,0,0,0,0,180,102,10
+Lee Jae-sung,South Korea,Jeonbuk Hyundai Motors FC,South Korea,MF,Attacking Midfield,21-25,25,3,0,1,1,0,270,35,6
+Moon Seon-min,South Korea,Incheon United FC,South Korea,FW,Left Winger,26-30,26,2,0,0,1,0,146,3,1
+Kim Young-gwon,South Korea,Guangzhou Evergrande Taobao,China,DF,Centre-Back,26-30,28,3,1,0,1,0,270,53,2
+Jang Hyun-soo,South Korea,FC Tokyo,Japan,DF,Centre-Back,26-30,26,3,0,0,0,0,270,51,3
+Kim Jin-hyeon,South Korea,Cerezo Osaka,Japan,GK,Goalkeeper,31-35,31,0,0,0,0,0,0,15,0
+Go Yo-han,South Korea,FC Seoul,South Korea,DF,Right-Back,26-30,30,1,0,0,0,0,11,20,0
+Jo Hyeon-woo,South Korea,Daegu FC,South Korea,GK,Goalkeeper,26-30,26,3,0,0,0,0,270,6,0
+Robin Olsen,Sweden,FC Copenhagen,Denmark,GK,Goalkeeper,26-30,28,5,0,0,0,0,450,18,0
+Mikael Lustig,Sweden,Celtic FC,Scotland,DF,Right-Back,31-35,31,4,0,0,2,0,352,66,6
+Victor Lindelof,Sweden,Manchester United,England,DF,Centre-Back,21-25,23,4,0,0,0,0,360,21,1
+Andreas Granqvist,Sweden,FK Krasnodar,Russia,DF,Centre-Back,31-35,33,5,2,0,0,0,450,72,6
+Martin Olsson,Sweden,Swansea City,England,DF,Left-Back,26-30,30,2,0,0,0,0,33,43,5
+Ludwig Augustinsson,Sweden,SV Werder Bremen,Germany,DF,Left-Back,21-25,24,5,1,0,0,0,450,15,0
+Sebastian Larsson,Sweden,Hull City,England,MF,Central Midfield,31-35,33,4,0,0,3,0,318,100,6
+Albin Ekdal,Sweden,Hamburger SV,Germany,MF,Central Midfield,26-30,28,5,0,0,1,0,421,34,0
+Marcus Berg,Sweden,Al-Ain FC,United Arab Emirates,FW,Centre-Forward,31-35,31,5,0,1,0,0,428,57,18
+Emil Forsberg,Sweden,RB Leipzig,Germany,FW,Left Winger,26-30,26,5,1,0,0,0,417,36,6
+John Guidetti,Sweden,Deportivo Alaves,Spain,FW,Centre-Forward,26-30,26,2,0,0,1,0,37,20,1
+Karl-Johan Johnsson,Sweden,EA Guingamp,France,GK,Goalkeeper,26-30,28,0,0,0,0,0,0,5,0
+Gustav Svensson,Sweden,Seattle Sounders FC,United States,MF,Defensive Midfield,31-35,31,3,0,0,0,0,132,13,0
+Filip Helander,Sweden,Bologna FC 1909,Italy,DF,Centre-Back,21-25,25,0,0,0,0,0,0,4,0
+Oscar Hiljemark,Sweden,Genoa CFC,Italy,MF,Central Midfield,26-30,26,2,0,0,0,0,29,22,2
+Emil Krafth,Sweden,Bologna FC 1909,Italy,DF,Right-Back,21-25,23,2,0,0,0,0,93,13,0
+Viktor Claesson,Sweden,FK Krasnodar,Russia,MF,Attacking Midfield,26-30,26,5,0,3,1,0,434,22,3
+Pontus Jansson,Sweden,Leeds United,England,DF,Centre-Back,26-30,27,2,0,0,0,0,95,15,0
+Marcus Rohden,Sweden,FC Crotone,Italy,MF,Right Midfield,26-30,27,0,0,0,0,0,0,12,1
+Ola Toivonen,Sweden,FC Toulouse,France,FW,Centre-Forward,31-35,32,5,1,1,0,0,400,59,13
+Jimmy Durmaz,Sweden,FC Toulouse,France,FW,Left Winger,26-30,29,1,0,0,0,0,16,45,3
+Isaac Kiese Thelin,Sweden,Waasland-Beveren,Belgium,FW,Centre-Forward,26-30,26,4,0,1,0,0,35,20,2
+Kristoffer Nordfeldt,Sweden,Swansea City,England,GK,Goalkeeper,26-30,29,0,0,0,0,0,0,8,0
+Thibaut Courtois,Belgium,Chelsea FC,England,GK,Goalkeeper,26-30,26,7,0,0,0,0,630,58,0
+Toby Alderweireld,Belgium,Tottenham Hotspur,England,DF,Centre-Back,26-30,29,6,0,1,2,0,540,77,3
+Thomas Vermaelen,Belgium,FC Barcelona,Spain,DF,Centre-Back,31-35,32,3,0,0,0,0,132,66,1
+Vincent Kompany,Belgium,Manchester City,England,DF,Centre-Back,31-35,32,5,0,1,0,0,376,77,4
+Jan Vertonghen,Belgium,Tottenham Hotspur,England,DF,Centre-Back,31-35,31,6,1,0,2,0,540,102,8
+Axel Witsel,Belgium,Tianjin Quanjian,China,MF,Central Midfield,26-30,29,6,0,0,1,0,540,90,9
+Kevin De Bruyne,Belgium,Manchester City,England,MF,Attacking Midfield,26-30,27,6,1,2,1,0,540,62,14
+Marouane Fellaini,Belgium,Manchester United,England,MF,Central Midfield,26-30,30,5,1,0,0,0,316,82,17
+Romelu Lukaku,Belgium,Manchester United,England,FW,Centre-Forward,21-25,25,6,4,1,0,0,477,69,36
+Eden Hazard,Belgium,Chelsea FC,England,FW,Left Winger,26-30,27,6,3,2,1,0,518,86,22
+Yannick Carrasco,Belgium,Dalian Yifang,China,FW,Left Winger,21-25,24,4,0,0,0,0,239,26,5
+Simon Mignolet,Belgium,Liverpool FC,England,GK,Goalkeeper,26-30,30,0,0,0,0,0,0,21,0
+Koen Casteels,Belgium,VfL Wolfsburg,Germany,GK,Goalkeeper,26-30,26,0,0,0,0,0,0,0,0
+Dries Mertens,Belgium,SSC Napoli,Italy,FW,Centre-Forward,31-35,31,6,1,1,0,0,297,69,14
+Thomas Meunier,Belgium,Paris Saint-Germain,France,DF,Right-Back,26-30,26,5,1,2,2,0,450,25,5
+Thorgan Hazard,Belgium,Borussia Monchengladbach,Germany,FW,Left Winger,21-25,25,2,0,0,0,0,97,11,1
+Youri Tielemans,Belgium,AS Monaco,France,MF,Central Midfield,21-25,21,4,0,2,1,0,176,9,0
+Adnan Januzaj,Belgium,Real Sociedad,Spain,FW,Right Winger,21-25,23,1,1,0,0,0,86,8,0
+Mousa Dembele,Belgium,Tottenham Hotspur,England,MF,Central Midfield,26-30,30,4,0,0,0,0,177,76,5
+Dedryck Boyata,Belgium,Celtic FC,Scotland,DF,Centre-Back,26-30,27,3,0,0,0,0,270,7,0
+Michy Batshuayi,Belgium,Borussia Dortmund,Germany,FW,Centre-Forward,21-25,24,3,1,0,0,0,112,16,7
+Nacer Chadli,Belgium,West Bromwich Albion,England,FW,Left Winger,26-30,28,6,1,1,0,0,327,45,5
+Leander Dendoncker,Belgium,RSC Anderlecht,Belgium,DF,Centre-Back,21-25,23,1,0,0,1,0,90,5,0
+Jordan Pickford,England,Everton FC,England,GK,Goalkeeper,21-25,24,7,0,0,0,0,690,3,0
+Kyle Walker,England,Manchester City,England,DF,Right-Back,26-30,28,5,0,0,2,0,495,35,0
+Danny Rose,England,Tottenham Hotspur,England,DF,Left-Back,26-30,28,5,0,0,0,0,202,18,0
+Eric Dier,England,Tottenham Hotspur,England,MF,Defensive Midfield,21-25,24,6,0,0,0,0,247,26,3
+John Stones,England,Manchester City,England,DF,Centre-Back,21-25,24,7,2,0,1,0,645,26,0
+Harry Maguire,England,Leicester City,England,DF,Centre-Back,21-25,25,7,1,1,2,0,644,5,0
+Jesse Lingard,England,Manchester United,England,FW,Left Winger,21-25,25,6,1,2,1,0,527,12,1
+Jordan Henderson,England,Liverpool FC,England,MF,Central Midfield,26-30,28,5,0,0,1,0,482,39,0
+Harry Kane,England,Tottenham Hotspur,England,FW,Centre-Forward,21-25,24,6,6,0,0,0,573,24,13
+Raheem Sterling,England,Manchester City,England,FW,Right Winger,21-25,23,6,0,1,0,0,455,38,2
+Jamie Vardy,England,Leicester City,England,FW,Centre-Forward,31-35,31,4,0,0,0,0,157,22,7
+Kieran Trippier,England,Tottenham Hotspur,England,DF,Right-Back,26-30,27,6,1,1,0,0,577,7,0
+Jack Butland,England,Stoke City,England,GK,Goalkeeper,21-25,25,0,0,0,0,0,0,8,0
+Danny Welbeck,England,Arsenal FC,England,FW,Centre-Forward,26-30,27,1,0,0,0,0,11,39,16
+Gary Cahill,England,Chelsea FC,England,DF,Centre-Back,31-35,32,1,0,0,0,0,90,60,5
+Phil Jones,England,Manchester United,England,DF,Centre-Back,26-30,26,2,0,0,0,0,180,25,0
+Fabian Delph,England,Manchester City,England,MF,Central Midfield,26-30,28,4,0,0,0,0,220,11,0
+Ashley Young,England,Manchester United,England,MF,Left Midfield,31-35,33,5,0,1,0,0,462,34,7
+Marcus Rashford,England,Manchester United,England,FW,Centre-Forward,15-20,20,6,0,0,0,0,209,19,3
+Dele Alli,England,Tottenham Hotspur,England,MF,Attacking Midfield,21-25,22,5,1,0,0,0,364,25,2
+Ruben Loftus-Cheek,England,Crystal Palace,England,MF,Central Midfield,21-25,22,4,0,1,1,0,274,4,0
+Trent Alexander-Arnold,England,Liverpool FC,England,DF,Right-Back,15-20,19,1,0,0,0,0,79,1,0
+Nick Pope,England,Burnley FC,England,GK,Goalkeeper,26-30,26,0,0,0,0,0,0,1,0
+Jaime Penedo,Panama,Dinamo Bukarest,Romania,GK,Goalkeeper,36+,36,3,0,0,0,0,270,131,0
+Michael Amir Murillo,Panama,New York Red Bulls,United States,DF,Right-Back,21-25,22,2,0,0,2,0,180,22,2
+Harold Cummings,Panama,San Jose Earthquakes,United States,DF,Centre-Back,26-30,26,1,0,0,0,0,44,52,0
+Fidel Escobar,Panama,New York Red Bulls,United States,DF,Centre-Back,21-25,23,3,0,0,1,0,270,23,1
+Roman Torres,Panama,Seattle Sounders FC,United States,DF,Centre-Back,31-35,32,3,0,0,0,0,236,111,10
+Gabriel Gomez,Panama,Atletico Bucaramanga,Colombia,MF,Defensive Midfield,31-35,34,3,0,0,1,0,249,144,12
+Blas Perez,Panama,CSD Municipal,Guatemala,FW,Centre-Forward,36+,37,2,0,0,0,0,163,118,43
+Edgar Barcenas,Panama,Cafetaleros de Tapachula,Mexico,FW,Left Winger,21-25,24,3,0,0,1,0,222,29,0
+Gabriel Torres,Panama,Huachipato FC,Chile,FW,Centre-Forward,26-30,29,2,0,0,0,0,72,72,14
+Ismael Diaz,Panama,RC Deportivo Fabril,Spain,FW,Left Winger,21-25,21,1,0,0,0,0,27,11,2
+Armando Cooper,Panama,Club Universidad de Chile,Chile,MF,Central Midfield,26-30,30,2,0,0,2,0,180,98,7
+Jose Calderon,Panama,UD Universitario,Panama,GK,Goalkeeper,31-35,32,0,0,0,0,0,0,31,0
+Adolfo Machado,Panama,Houston Dynamo,United States,DF,Centre-Back,31-35,33,1,0,0,0,0,90,76,1
+Valentin Pimentel,Panama,CD Plaza Amador,Panama,FW,Right Winger,26-30,27,0,0,0,0,0,0,23,1
+Erick Davis,Panama,DAC Dunajska Streda,Slovakia,DF,Left-Back,26-30,27,2,0,0,1,0,180,38,0
+Abdiel Arroyo,Panama,LD Alajuelense,Costa Rica,FW,Centre-Forward,21-25,24,2,0,0,0,0,30,33,5
+Luis Ovalle,Panama,CD Olimpia,Honduras,DF,Left-Back,26-30,29,1,0,0,0,0,90,25,0
+Luis Tejada,Panama,Sport Boys Callao,Peru,FW,Centre-Forward,36+,36,2,0,0,1,0,51,105,43
+Ricardo Avila,Panama,KAA Gent,Belgium,MF,Defensive Midfield,21-25,21,2,0,1,1,0,109,5,0
+Anibal Godoy,Panama,San Jose Earthquakes,United States,MF,Defensive Midfield,26-30,28,3,0,0,1,0,242,88,1
+Jose Luis Rodriguez,Panama,KAA Gent,Belgium,MF,Left Midfield,15-20,20,3,0,1,0,0,243,2,0
+Alex Rodriguez,Panama,San Francisco FC,Panama,GK,Goalkeeper,26-30,27,0,0,0,0,0,0,6,0
+Felipe Baloy,Panama,CSD Municipal,Guatemala,DF,Centre-Back,36+,37,1,1,0,0,0,21,102,3
+Farouk Ben Mustapha,Tunisia,Al-Shabab Riyadh,Saudi Arabia,GK,Goalkeeper,26-30,29,2,0,0,0,0,165,15,0
+Syam Ben Youssef,Tunisia,Kasimpasa,Turkey,DF,Centre-Back,26-30,29,2,0,0,0,0,131,42,1
+Yohan Benalouane,Tunisia,Leicester City,England,DF,Centre-Back,31-35,31,1,0,0,0,0,49,4,0
+Yassine Meriah,Tunisia,Club Sportif Sfaxien,Tunisia,DF,Centre-Back,21-25,25,3,0,0,0,0,270,16,1
+Oussama Haddadi,Tunisia,FCO Dijon,France,DF,Left-Back,26-30,26,1,0,1,0,0,90,9,0
+Rami Bedoui,Tunisia,Etoile Sportive du Sahel,Tunisia,DF,Centre-Back,26-30,28,1,0,0,0,0,90,8,0
+Saif-Eddine Khaoui,Tunisia,ES Troyes AC,France,MF,Attacking Midfield,21-25,23,1,0,0,0,0,90,5,0
+Fakhreddine Ben Youssef,Tunisia,Al-Ettifaq,Saudi Arabia,FW,Right Winger,26-30,27,3,1,1,0,0,270,39,5
+Anice Badri,Tunisia,Esperance Tunis,Tunisia,FW,Right Winger,26-30,27,3,0,0,1,0,224,7,2
+Wahbi Khazri,Tunisia,Stade Rennais FC,France,MF,Attacking Midfield,26-30,27,3,2,2,0,0,264,35,12
+Dylan Bronn,Tunisia,KAA Gent,Belgium,DF,Centre-Back,21-25,23,2,1,0,0,0,114,5,0
+Ali Maaloul,Tunisia,El Ahly Cairo,Egypt,DF,Left-Back,26-30,28,2,0,0,0,0,180,46,0
+Ferjani Sassi,Tunisia,Al-Nasr Riyadh,Saudi Arabia,MF,Central Midfield,26-30,26,3,1,0,2,0,194,39,3
+Mohamed Amine Ben Amor,Tunisia,Al-Ahli Jeddah,Saudi Arabia,MF,Defensive Midfield,26-30,26,1,0,0,0,0,16,26,1
+Ahmed Khalil,Tunisia,Club Africain Tunis,Tunisia,MF,Defensive Midfield,21-25,23,1,0,0,0,0,13,3,0
+Aymen Mathlouthi,Tunisia,Al-Batin,Saudi Arabia,GK,Goalkeeper,31-35,33,1,0,0,0,0,90,70,0
+Ellyes Skhiri,Tunisia,HSC Montpellier,France,MF,Defensive Midfield,21-25,23,3,0,0,0,0,270,5,0
+Bassem Srarfi,Tunisia,OGC Nice,France,FW,Right Winger,21-25,21,1,0,0,0,0,1,5,0
+Saber Khalifa,Tunisia,Club Africain Tunis,Tunisia,FW,Centre-Forward,31-35,31,1,0,0,0,0,5,44,7
+Ghailene Chaalali,Tunisia,Esperance Tunis,Tunisia,MF,Central Midfield,21-25,24,1,0,0,1,0,90,6,1
+Hamdi Nagguez,Tunisia,Zamalek SC,Egypt,DF,Right-Back,21-25,25,2,0,1,0,0,156,15,0
+Mouez Hassen,Tunisia,LB Chateauroux,France,GK,Goalkeeper,21-25,23,1,0,0,0,0,15,3,0
+Naim Sliti,Tunisia,FCO Dijon,France,FW,Left Winger,21-25,25,3,0,0,0,0,182,17,3
+David Ospina,Colombia,Arsenal FC,England,GK,Goalkeeper,26-30,29,4,0,0,0,0,390,86,0
+Cristian Zapata,Colombia,AC Milan,Italy,DF,Centre-Back,31-35,31,1,0,0,0,0,4,55,2
+Oscar Murillo,Colombia,CF Pachuca,Mexico,DF,Centre-Back,26-30,30,1,0,0,0,0,90,13,0
+Santiago Arias,Colombia,PSV Eindhoven,Netherlands,DF,Right-Back,26-30,26,4,0,0,1,0,386,41,0
+Wilmar Barrios,Colombia,Club Atletico Boca Juniors,Argentina,MF,Defensive Midfield,21-25,24,3,0,0,2,0,269,10,0
+Carlos Sanchez,Colombia,RCD Espanyol Barcelona,Spain,MF,Defensive Midfield,31-35,32,3,0,0,1,1,172,85,0
+Carlos Bacca,Colombia,Villarreal CF,Spain,FW,Centre-Forward,31-35,31,3,0,0,1,0,91,45,14
+Abel Aguilar,Colombia,Deportivo Cali,Colombia,MF,Defensive Midfield,31-35,33,1,0,0,0,0,32,70,7
+Radamel Falcao,Colombia,AS Monaco,France,FW,Centre-Forward,31-35,32,4,1,0,1,0,377,73,29
+James Rodriguez,Colombia,Bayern Munich,Germany,MF,Attacking Midfield,26-30,26,3,0,2,1,0,152,63,21
+Juan Cuadrado,Colombia,Juventus FC,Italy,FW,Right Winger,26-30,30,4,1,1,1,0,331,70,7
+Camilo Vargas,Colombia,Deportivo Cali,Colombia,GK,Goalkeeper,26-30,29,0,0,0,0,0,0,5,0
+Yerry Mina,Colombia,FC Barcelona,Spain,DF,Centre-Back,21-25,23,3,3,0,0,0,300,12,3
+Luis Muriel,Colombia,Sevilla FC,Spain,FW,Centre-Forward,26-30,27,2,0,0,0,0,91,18,2
+Mateus Uribe,Colombia,CF America,Mexico,MF,Central Midfield,26-30,27,3,0,0,0,0,182,8,0
+Jefferson Lerma,Colombia,Levante UD,Spain,MF,Defensive Midfield,21-25,23,4,0,0,0,0,175,5,0
+Johan Mojica,Colombia,Girona FC,Spain,DF,Left-Back,21-25,25,4,0,0,1,0,390,4,1
+Farid Diaz,Colombia,Olimpia Asuncion,Paraguay,DF,Left-Back,31-35,34,0,0,0,0,0,0,13,0
+Miguel Borja,Colombia,Sociedade Esportiva Palmeiras,Brazil,FW,Centre-Forward,21-25,25,1,0,0,0,0,1,7,2
+Juan Fernando Quintero,Colombia,Club Atletico River Plate,Argentina,MF,Attacking Midfield,21-25,25,4,1,2,0,0,310,15,2
+Jose Izquierdo,Colombia,Brighton & Hove Albion,England,FW,Left Winger,26-30,26,1,0,0,0,0,70,5,1
+Jose Fernando Cuadrado,Colombia,Once Caldas,Colombia,GK,Goalkeeper,31-35,33,0,0,0,0,0,0,1,0
+Davinson Sanchez,Colombia,Tottenham Hotspur,England,DF,Centre-Back,21-25,22,4,0,0,0,0,390,9,0
+Eiji Kawashima,Japan,FC Metz,France,GK,Goalkeeper,31-35,35,4,0,0,1,0,360,84,0
+Naomichi Ueda,Japan,Kashima Antlers,Japan,DF,Centre-Back,21-25,23,0,0,0,0,0,0,4,0
+Gen Shoji,Japan,Kashima Antlers,Japan,DF,Centre-Back,21-25,25,3,0,0,0,0,270,11,1
+Keisuke Honda,Japan,CF Pachuca,Mexico,FW,Right Winger,31-35,32,3,1,1,0,0,47,95,36
+Yuto Nagatomo,Japan,Galatasaray SK,Turkey,DF,Left-Back,31-35,31,4,0,1,0,0,360,105,3
+Wataru Endo,Japan,Urawa Red Diamonds,Japan,DF,Centre-Back,21-25,25,0,0,0,0,0,0,12,0
+Gaku Shibasaki,Japan,Getafe CF,Spain,MF,Central Midfield,26-30,26,4,0,1,1,0,341,18,3
+Genki Haraguchi,Japan,Fortuna Dusseldorf,Germany,FW,Left Winger,26-30,27,3,1,0,0,0,246,33,6
+Shinji Okazaki,Japan,Leicester City,England,FW,Centre-Forward,31-35,32,3,0,0,0,0,67,113,50
+Shinji Kagawa,Japan,Borussia Dortmund,Germany,MF,Attacking Midfield,26-30,29,3,1,1,0,0,232,92,30
+Takashi Usami,Japan,Fortuna Dusseldorf,Germany,FW,Left Winger,26-30,26,2,0,0,0,0,68,24,3
+Masaaki Higashiguchi,Japan,Gamba Osaka,Japan,GK,Goalkeeper,31-35,32,0,0,0,0,0,0,5,0
+Yoshinori Muto,Japan,1.FSV Mainz 05,Germany,FW,Centre-Forward,21-25,25,1,0,0,0,0,82,24,2
+Takashi Inui,Japan,SD Eibar,Spain,FW,Left Winger,26-30,30,4,2,1,1,0,292,27,4
+Yuya Osako,Japan,1. FC Koln,Germany,FW,Second Striker,26-30,28,4,1,0,0,0,308,29,7
+Hotaru Yamaguchi,Japan,Cerezo Osaka,Japan,MF,Defensive Midfield,26-30,27,3,0,0,0,0,109,42,2
+Makoto Hasebe,Japan,Eintracht Frankfurt,Germany,MF,Defensive Midfield,31-35,34,4,0,0,1,0,278,110,2
+Ryota Oshima,Japan,Kawasaki Frontale,Japan,MF,Central Midfield,21-25,25,0,0,0,0,0,0,5,0
+Hiroki Sakai,Japan,Olympique Marseille,France,DF,Right-Back,26-30,28,4,0,0,0,0,360,43,0
+Tomoaki Makino,Japan,Urawa Red Diamonds,Japan,DF,Centre-Back,31-35,31,1,0,0,1,0,90,32,4
+Gotoku Sakai,Japan,Hamburger SV,Germany,DF,Right-Back,26-30,27,1,0,0,0,0,90,41,0
+Maya Yoshida,Japan,Southampton FC,England,DF,Centre-Back,26-30,29,4,0,0,0,0,360,82,10
+Kosuke Nakamura,Japan,Kashiwa Reysol,Japan,GK,Goalkeeper,21-25,23,0,0,0,0,0,0,4,0
+Wojciech Szczesny,Poland,Juventus FC,Italy,GK,Goalkeeper,26-30,28,2,0,0,0,0,180,35,0
+Michal Pazdan,Poland,Legia Warszawa,Poland,DF,Centre-Back,26-30,30,2,0,0,0,0,170,33,0
+Artur Jedrzejczyk,Poland,Legia Warszawa,Poland,DF,Right-Back,26-30,30,1,0,0,0,0,90,36,3
+Thiago Cionek,Poland,SPAL 2013,Italy,DF,Centre-Back,31-35,32,1,0,0,0,0,90,19,0
+Jan Bednarek,Poland,Southampton FC,England,DF,Centre-Back,21-25,22,3,1,0,1,0,224,3,0
+Jacek Goralski,Poland,PFK Ludogorets Razgrad,Bulgaria,MF,Defensive Midfield,21-25,25,2,0,0,1,0,180,5,0
+Arkadiusz Milik,Poland,SSC Napoli,Italy,FW,Centre-Forward,21-25,24,1,0,0,0,0,73,40,12
+Karol Linetty,Poland,UC Sampdoria,Italy,MF,Central Midfield,21-25,23,0,0,0,0,0,0,20,1
+Robert Lewandowski,Poland,Bayern Munich,Germany,FW,Centre-Forward,26-30,29,3,0,0,0,0,270,95,55
+Grzegorz Krychowiak,Poland,West Bromwich Albion,England,MF,Defensive Midfield,26-30,28,3,1,0,1,0,270,51,2
+Kamil Grosicki,Poland,Hull City,England,FW,Right Winger,26-30,30,3,0,1,0,0,213,57,12
+Bartosz Bialkowski,Poland,Ipswich Town,England,GK,Goalkeeper,31-35,31,0,0,0,0,0,0,1,0
+Maciej Rybus,Poland,Lokomotiv Moscow,Russia,MF,Left Midfield,26-30,28,2,0,0,0,0,180,51,2
+Lukasz Teodorczyk,Poland,RSC Anderlecht,Belgium,FW,Centre-Forward,26-30,27,2,0,0,0,0,27,17,4
+Kamil Glik,Poland,AS Monaco,France,DF,Centre-Back,26-30,30,2,0,0,0,0,100,57,4
+Jakub Blaszczykowski,Poland,VfL Wolfsburg,Germany,MF,Right Midfield,31-35,32,1,0,0,0,0,45,99,20
+Slawomir Peszko,Poland,Lechia Gdansk,Poland,FW,Left Winger,31-35,33,1,0,0,0,0,10,43,2
+Bartosz Bereszynski,Poland,UC Sampdoria,Italy,DF,Right-Back,21-25,25,3,0,0,0,0,170,8,0
+Piotr Zielinski,Poland,SSC Napoli,Italy,MF,Central Midfield,21-25,24,3,0,0,0,0,260,33,5
+Lukasz Piszczek,Poland,Borussia Dortmund,Germany,DF,Right-Back,31-35,33,2,0,0,0,0,173,63,3
+Rafal Kurzawa,Poland,Gornik Zabrze,Poland,FW,Left Winger,21-25,25,1,0,1,0,0,80,3,0
+Lukasz Fabianski,Poland,Swansea City,England,GK,Goalkeeper,31-35,33,1,0,0,0,0,90,45,0
+Dawid Kownacki,Poland,UC Sampdoria,Italy,FW,Centre-Forward,21-25,21,2,0,0,0,0,74,2,1
+Abdoulaye Diallo,Senegal,Stade Rennais FC,France,GK,Goalkeeper,26-30,26,0,0,0,0,0,0,17,0
+Adama Mbengue,Senegal,SM Caen,France,DF,Left-Back,21-25,24,0,0,0,0,0,0,6,0
+Kalidou Koulibaly,Senegal,SSC Napoli,Italy,DF,Centre-Back,26-30,27,3,0,0,0,0,270,26,0
+Kara Mbodji,Senegal,RSC Anderlecht,Belgium,DF,Centre-Back,26-30,28,0,0,0,0,0,0,52,5
+Idrissa Gueye,Senegal,Everton FC,England,MF,Central Midfield,26-30,28,3,0,1,1,0,270,61,1
+Salif Sane,Senegal,Hannover 96,Germany,DF,Centre-Back,26-30,27,3,0,0,1,0,270,22,0
+Moussa Sow,Senegal,Bursaspor,Turkey,FW,Centre-Forward,31-35,32,0,0,0,0,0,0,51,18
+Cheikhou Kouyate,Senegal,West Ham United,England,MF,Defensive Midfield,26-30,28,3,0,0,0,0,118,48,2
+Mame Biram Diouf,Senegal,Stoke City,England,FW,Centre-Forward,26-30,30,2,0,0,0,0,64,49,10
+Sadio Mane,Senegal,Liverpool FC,England,FW,Left Winger,26-30,26,3,1,0,0,0,270,53,14
+Cheikh N'Doye,Senegal,Birmingham City,England,MF,Central Midfield,31-35,32,2,0,0,1,0,39,26,3
+Youssouf Sabaly,Senegal,FC Girondins Bordeaux,France,DF,Right-Back,21-25,25,3,0,1,1,0,254,5,0
+Alfred N'Diaye,Senegal,Wolverhampton Wanderers,England,MF,Defensive Midfield,26-30,28,2,0,0,0,0,152,21,0
+Moussa Konate,Senegal,SC Amiens,France,FW,Centre-Forward,21-25,25,2,0,0,0,0,24,28,10
+Diafra Sakho,Senegal,Stade Rennais FC,France,FW,Centre-Forward,26-30,28,1,0,0,0,0,4,12,3
+Khadim N'Diaye,Senegal,Horoya AC,Guinea,GK,Goalkeeper,31-35,33,3,0,0,0,0,270,26,0
+Badou Ndiaye,Senegal,Stoke City,England,MF,Central Midfield,26-30,27,1,0,0,0,0,81,20,1
+Ismaila Sarr,Senegal,Stade Rennais FC,France,FW,Left Winger,15-20,20,3,0,0,0,0,270,16,3
+M'Baye Niang,Senegal,Torino FC,Italy,FW,Centre-Forward,21-25,23,3,1,1,2,0,248,7,0
+Keita Balde,Senegal,AS Monaco,France,FW,Left Winger,21-25,23,1,0,0,0,0,80,19,3
+Lamine Gassama,Senegal,Alanyaspor,Turkey,DF,Right-Back,26-30,28,1,0,0,0,0,90,36,0
+Moussa Wague,Senegal,KAS Eupen,Belgium,DF,Right-Back,15-20,19,3,1,0,0,0,196,10,0
+Alfred Gomis,Senegal,SPAL 2013,Italy,GK,Goalkeeper,21-25,24,0,0,0,0,0,0,1,0
