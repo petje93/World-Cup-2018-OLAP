@@ -201,8 +201,8 @@ def plot():
     elif plot_type=='Boxplot':
         plt.boxplot(boxplot_sizes)         
     
-    plt.savefig('pie.png', facecolor=fig.get_facecolor())
-    plt.show()
+    plt.savefig('pie.png',dpi=70, facecolor=fig.get_facecolor())
+    #plt.show()
     img_pie = PhotoImage(file="pie.png")
 
     panel_pie.config(image=img_pie)
@@ -266,8 +266,8 @@ def stats_table(cell):
 
     fig.tight_layout()
     
-    plt.savefig('pie.png', facecolor=fig.get_facecolor())
-    plt.show()
+    plt.savefig('pie.png',dpi=70, facecolor=fig.get_facecolor())
+    #plt.show()
     img_pie = PhotoImage(file="pie.png")
 
     panel_pie.config(image=img_pie)
